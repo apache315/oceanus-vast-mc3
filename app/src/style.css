@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  --color-ink: #333333;
+  --color-muted: #666666;
+  --color-line: #e5e5e5;
+  --color-panel: #ffffff;
+  --color-page: #f6f6f4;
+}
+
+html, body, #app { height: 100%; }
+body { background: var(--color-page); color: var(--color-ink); font-family: var(--font-sans); }
+.chart { fill: var(--color-ink); } /* inherited default: a fill set on a mark wins */
+.chart text { font-family: var(--font-sans); }
+.chart .axis text { font-size: 10px; fill: #555; }
+.chart .axis path, .chart .axis line { stroke: #bbb; }
+.tooltip {
+  position: fixed; pointer-events: none; z-index: 50; max-width: 320px;
+  background: #fff; border: 1px solid #ccc; border-radius: 4px; padding: 6px 8px;
+  font-size: 12px; line-height: 1.35; box-shadow: 0 2px 6px rgba(0, 0, 0, .12);
+}

@@ -1,0 +1,451 @@
+event_id,entity_id,direction,is_inferred,event_type,timestamp
+Event_Assessment_600,Sam,entity_to_event,True,Assessment,2040-10-09 08:54:00
+Event_Collaborate_868,Nadia Conti,entity_to_event,True,Collaborate,2040-10-14 09:00:00
+Event_Assessment_41,Liam Thorne,entity_to_event,True,Assessment,2040-10-01 10:56:00
+Event_Enforcement_42,Liam Thorne,entity_to_event,True,Enforcement,2040-10-01 10:56:00
+Event_Monitoring_534,Liam Thorne,entity_to_event,True,Monitoring,
+Event_Collaborate_697,Liam Thorne,entity_to_event,True,Collaborate,2040-10-11 10:00:00
+Event_Collaborate_723,Liam Thorne,entity_to_event,True,Collaborate,2040-10-11 05:00:00
+Event_Collaborate_550,Davis,entity_to_event,True,Collaborate,2040-10-08 19:00:00
+Event_Assessment_583,Davis,entity_to_event,True,Assessment,2040-10-08 11:23:00
+Event_Collaborate_818,Davis,entity_to_event,True,Collaborate,2040-10-12 06:00:00
+Event_Collaborate_868,Davis,entity_to_event,True,Collaborate,2040-10-14 09:00:00
+Event_Assessment_198,Rodriguez,entity_to_event,True,Assessment,2040-10-03 09:28:00
+Event_Collaborate_200,Rodriguez,entity_to_event,True,Collaborate,2040-10-03 09:47:00
+Event_Monitoring_129,Miranda Jordan,entity_to_event,True,Monitoring,2040-10-02 12:16:00
+Event_Monitoring_133,Miranda Jordan,entity_to_event,True,Monitoring,2040-10-02 12:22:00
+Event_Monitoring_358,Miranda Jordan,entity_to_event,True,Monitoring,2040-10-05 10:30:00
+Event_Assessment_650,The Intern,entity_to_event,True,Assessment,2040-10-10 08:12:00
+Event_Assessment_703,The Intern,entity_to_event,True,Assessment,2040-10-10 05:00:00
+Event_Monitoring_704,The Intern,entity_to_event,True,Monitoring,2040-10-10 05:00:00
+Event_Collaborate_719,The Intern,entity_to_event,True,Collaborate,2040-10-11 05:00:00
+Event_Assessment_729,The Intern,entity_to_event,True,Assessment,2040-10-11 05:00:00
+Event_Monitoring_0,The Lookout,entity_to_event,True,Monitoring,2040-10-01 08:09:00
+Event_Monitoring_444,The Lookout,entity_to_event,True,Monitoring,2040-10-07 08:14:00
+Event_Assessment_445,The Lookout,entity_to_event,True,Assessment,2040-10-07 08:14:00
+Event_Monitoring_595,The Lookout,entity_to_event,True,Monitoring,2040-10-09 08:12:00
+Event_Assessment_791,The Lookout,entity_to_event,True,Assessment,2040-10-11 10:52:00
+Event_Monitoring_797,The Lookout,entity_to_event,True,Monitoring,2040-10-12 08:59:00
+Event_VesselMovement_798,The Lookout,entity_to_event,True,VesselMovement,2040-10-12 08:59:00
+Event_Assessment_463,Mrs. Money,entity_to_event,True,Assessment,2040-10-07 09:38:00
+Event_Assessment_729,Mrs. Money,entity_to_event,True,Assessment,2040-10-11 05:00:00
+Event_Collaborate_276,The Middleman,entity_to_event,True,Collaborate,2040-10-04 21:00:00
+Event_Collaborate_276,Boss,entity_to_event,True,Collaborate,2040-10-04 21:00:00
+Event_VesselMovement_154,Small Fry,entity_to_event,True,VesselMovement,
+Event_Collaborate_512,Small Fry,entity_to_event,True,Collaborate,
+Event_Assessment_65,Glitters Team,entity_to_event,True,Assessment,2040-10-01 12:27:00
+Event_Monitoring_38,Oceanus City Council,entity_to_event,True,Monitoring,
+Event_Enforcement_44,Oceanus City Council,entity_to_event,True,Enforcement,2040-10-01 10:58:00
+Event_Assessment_101,Oceanus City Council,entity_to_event,True,Assessment,
+Event_Collaborate_184,Oceanus City Council,entity_to_event,True,Collaborate,2040-10-03 08:53:00
+Event_Enforcement_292,Oceanus City Council,entity_to_event,True,Enforcement,2040-10-04 11:29:00
+Event_Collaborate_364,Oceanus City Council,entity_to_event,True,Collaborate,2040-10-05 10:36:00
+Event_Enforcement_745,Oceanus City Council,entity_to_event,True,Enforcement,2040-10-11 09:12:00
+Event_HarborReport_927,Oceanus City Council,entity_to_event,True,HarborReport,
+Event_Collaborate_82,Green Guardians,entity_to_event,True,Collaborate,2040-10-01 12:43:00
+Event_Collaborate_108,Green Guardians,entity_to_event,True,Collaborate,
+Event_Assessment_172,Green Guardians,entity_to_event,True,Assessment,2040-10-03 08:44:00
+Event_Monitoring_173,Green Guardians,entity_to_event,True,Monitoring,2040-10-03 08:44:00
+Event_Assessment_174,Green Guardians,entity_to_event,True,Assessment,2040-10-03 08:46:00
+Event_Monitoring_192,Green Guardians,entity_to_event,True,Monitoring,2040-10-03 09:12:00
+Event_Monitoring_232,Green Guardians,entity_to_event,True,Monitoring,2040-10-03 10:38:00
+Event_Enforcement_233,Green Guardians,entity_to_event,True,Enforcement,2040-10-03 10:38:00
+Event_Enforcement_235,Green Guardians,entity_to_event,True,Enforcement,2040-10-03 10:39:00
+Event_Collaborate_236,Green Guardians,entity_to_event,True,Collaborate,2040-10-03 10:39:00
+Event_Monitoring_255,Green Guardians,entity_to_event,True,Monitoring,2040-10-04 08:41:00
+Event_Enforcement_261,Green Guardians,entity_to_event,True,Enforcement,2040-10-04 08:47:00
+Event_Monitoring_383,Green Guardians,entity_to_event,True,Monitoring,2040-10-06 09:50:00
+Event_Monitoring_410,Green Guardians,entity_to_event,True,Monitoring,2040-10-06 11:46:00
+Event_Collaborate_477,Green Guardians,entity_to_event,True,Collaborate,2040-10-07 10:28:00
+Event_Assessment_567,Green Guardians,entity_to_event,True,Assessment,2040-10-08 11:05:00
+Event_Monitoring_608,Green Guardians,entity_to_event,True,Monitoring,2040-10-09 10:20:00
+Event_Assessment_609,Green Guardians,entity_to_event,True,Assessment,2040-10-09 10:20:00
+Event_Monitoring_690,Green Guardians,entity_to_event,True,Monitoring,2040-10-10 11:24:00
+Event_Assessment_691,Green Guardians,entity_to_event,True,Assessment,
+Event_Monitoring_777,Green Guardians,entity_to_event,True,Monitoring,2040-10-11 10:38:00
+Event_Monitoring_829,Green Guardians,entity_to_event,True,Monitoring,2040-10-12 10:55:00
+Event_Monitoring_835,Green Guardians,entity_to_event,True,Monitoring,2040-10-12 11:02:00
+Event_Monitoring_900,Green Guardians,entity_to_event,True,Monitoring,2040-10-13 12:22:00
+Event_Assessment_966,Green Guardians,entity_to_event,True,Assessment,2040-10-14 10:58:00
+Event_Monitoring_530,V. Miesel Shipping,entity_to_event,True,Monitoring,2040-10-08 08:21:00
+Event_Assessment_701,V. Miesel Shipping,entity_to_event,True,Assessment,2040-10-10 05:00:00
+Event_Enforcement_839,V. Miesel Shipping,entity_to_event,True,Enforcement,2040-10-13 06:00:00
+Event_VesselMovement_393,Neptune,entity_to_event,True,VesselMovement,
+Event_VesselMovement_402,Neptune,entity_to_event,True,VesselMovement,
+Event_VesselMovement_418,Neptune,entity_to_event,True,VesselMovement,2040-10-06 12:27:00
+Event_Collaborate_422,Neptune,entity_to_event,True,Collaborate,2040-10-06 12:33:00
+Event_Collaborate_424,Neptune,entity_to_event,True,Collaborate,2040-10-06 12:35:00
+Event_Collaborate_455,Neptune,entity_to_event,True,Collaborate,2040-10-08 05:00:00
+Event_Assessment_488,Neptune,entity_to_event,True,Assessment,2040-10-07 10:36:00
+Event_VesselMovement_503,Neptune,entity_to_event,True,VesselMovement,2040-10-08 06:00:00
+Event_Assessment_522,Neptune,entity_to_event,True,Assessment,2040-10-08 08:10:00
+Event_Monitoring_631,Neptune,entity_to_event,True,Monitoring,2040-10-09 10:44:00
+Event_VesselMovement_980,Neptune,entity_to_event,True,VesselMovement,2040-10-14 04:00:00
+Event_Fishing_49,Marlin,entity_to_event,True,Fishing,
+Event_Criticize_52,Marlin,entity_to_event,True,Criticize,
+Event_Monitoring_286,Marlin,entity_to_event,True,Monitoring,2040-10-04 11:04:00
+Event_VesselMovement_577,Marlin,entity_to_event,True,VesselMovement,2040-10-08 11:16:00
+Event_VesselMovement_580,Marlin,entity_to_event,True,VesselMovement,2040-10-08 11:20:00
+Event_VesselMovement_629,Marlin,entity_to_event,True,VesselMovement,
+Event_VesselMovement_25,Serenity,entity_to_event,True,VesselMovement,2040-10-01 09:58:00
+Event_VesselMovement_944,Serenity,entity_to_event,True,VesselMovement,2040-10-15 00:00:00
+Event_Assessment_14,Mako,entity_to_event,True,Assessment,2040-10-01 08:52:00
+Event_Assessment_56,Mako,entity_to_event,True,Assessment,
+Event_VesselMovement_122,Mako,entity_to_event,True,VesselMovement,2040-10-02 12:09:00
+Event_TourActivity_137,Mako,entity_to_event,True,TourActivity,
+Event_TransponderPing_251,Mako,entity_to_event,True,TransponderPing,
+Event_Monitoring_253,Mako,entity_to_event,True,Monitoring,2040-10-04 08:38:00
+Event_TransponderPing_271,Mako,entity_to_event,True,TransponderPing,
+Event_VesselMovement_284,Mako,entity_to_event,True,VesselMovement,2040-10-04 11:03:00
+Event_VesselMovement_288,Mako,entity_to_event,True,VesselMovement,
+Event_VesselMovement_300,Mako,entity_to_event,True,VesselMovement,2040-10-04 08:30:00
+Event_TransponderPing_308,Mako,entity_to_event,True,TransponderPing,
+Event_Assessment_337,Mako,entity_to_event,True,Assessment,2040-10-05 09:52:00
+Event_VesselMovement_344,Mako,entity_to_event,True,VesselMovement,2040-10-05 10:02:00
+Event_VesselMovement_418,Mako,entity_to_event,True,VesselMovement,2040-10-06 12:27:00
+Event_Collaborate_455,Mako,entity_to_event,True,Collaborate,2040-10-08 05:00:00
+Event_VesselMovement_495,Mako,entity_to_event,True,VesselMovement,2040-10-08 06:00:00
+Event_TourActivity_498,Mako,entity_to_event,True,TourActivity,2040-10-08 05:30:00
+Event_VesselMovement_516,Mako,entity_to_event,True,VesselMovement,2040-10-08 06:00:00
+Event_VesselMovement_540,Mako,entity_to_event,True,VesselMovement,2040-10-09 05:00:00
+Event_Collaborate_542,Mako,entity_to_event,True,Collaborate,2040-10-08 10:17:00
+Event_VesselMovement_549,Mako,entity_to_event,True,VesselMovement,2040-10-08 19:00:00
+Event_Monitoring_803,Mako,entity_to_event,True,Monitoring,2040-10-12 09:24:00
+Event_TourActivity_814,Mako,entity_to_event,True,TourActivity,2040-10-13 08:00:00
+Event_Monitoring_917,Mako,entity_to_event,True,Monitoring,2040-10-13 12:41:00
+Event_TourActivity_962,Mako,entity_to_event,True,TourActivity,
+Event_Enforcement_998,Mako,entity_to_event,True,Enforcement,2040-10-14 13:31:00
+Event_VesselMovement_1000,Mako,entity_to_event,True,VesselMovement,2023-10-14 22:00:00
+Event_Enforcement_177,Reef Guardian,entity_to_event,True,Enforcement,2040-10-03 08:49:00
+Event_VesselMovement_242,Reef Guardian,entity_to_event,True,VesselMovement,2040-10-04 08:03:00
+Event_Monitoring_243,Reef Guardian,entity_to_event,True,Monitoring,2040-10-04 08:03:00
+Event_Monitoring_383,Reef Guardian,entity_to_event,True,Monitoring,2040-10-06 09:50:00
+Event_Monitoring_490,Reef Guardian,entity_to_event,True,Monitoring,2040-10-07 10:37:00
+Event_VesselMovement_569,Reef Guardian,entity_to_event,True,VesselMovement,2040-10-08 11:08:00
+Event_VesselMovement_624,Reef Guardian,entity_to_event,True,VesselMovement,2040-10-09 10:39:00
+Event_Assessment_625,Reef Guardian,entity_to_event,True,Assessment,2040-10-09 10:39:00
+Event_Collaborate_626,Reef Guardian,entity_to_event,True,Collaborate,2040-10-09 10:39:00
+Event_Assessment_628,Reef Guardian,entity_to_event,True,Assessment,
+Event_Monitoring_661,Reef Guardian,entity_to_event,True,Monitoring,2040-10-10 09:32:00
+Event_Monitoring_678,Reef Guardian,entity_to_event,True,Monitoring,2040-10-10 10:47:00
+Event_Monitoring_690,Reef Guardian,entity_to_event,True,Monitoring,2040-10-10 11:24:00
+Event_Assessment_691,Reef Guardian,entity_to_event,True,Assessment,
+Event_Monitoring_709,Reef Guardian,entity_to_event,True,Monitoring,2040-10-10 21:00:00
+Event_Monitoring_716,Reef Guardian,entity_to_event,True,Monitoring,2040-10-11 08:07:00
+Event_Monitoring_856,Reef Guardian,entity_to_event,True,Monitoring,2040-10-12 12:59:00
+Event_Monitoring_900,Reef Guardian,entity_to_event,True,Monitoring,2040-10-13 12:22:00
+Event_Monitoring_922,Reef Guardian,entity_to_event,True,Monitoring,2040-10-13 07:00:00
+Event_Monitoring_934,Reef Guardian,entity_to_event,True,Monitoring,2040-10-14 08:06:00
+Event_Monitoring_946,Reef Guardian,entity_to_event,True,Monitoring,2040-10-14 08:40:00
+Event_Monitoring_967,Reef Guardian,entity_to_event,True,Monitoring,2040-10-14 10:58:00
+Event_Monitoring_971,Reef Guardian,entity_to_event,True,Monitoring,2040-10-14 11:32:00
+Event_Collaborate_972,Reef Guardian,entity_to_event,True,Collaborate,2040-10-14 11:32:00
+Event_Monitoring_71,Horizon,entity_to_event,True,Monitoring,2040-10-01 12:37:00
+Event_Monitoring_73,Horizon,entity_to_event,True,Monitoring,2040-10-01 12:39:00
+Event_Collaborate_82,Horizon,entity_to_event,True,Collaborate,2040-10-01 12:43:00
+Event_VesselMovement_210,Horizon,entity_to_event,True,VesselMovement,2040-10-03 18:00:00
+Event_Monitoring_490,Horizon,entity_to_event,True,Monitoring,2040-10-07 10:37:00
+Event_Monitoring_608,Horizon,entity_to_event,True,Monitoring,2040-10-09 10:20:00
+Event_Assessment_609,Horizon,entity_to_event,True,Assessment,2040-10-09 10:20:00
+Event_Monitoring_829,Horizon,entity_to_event,True,Monitoring,2040-10-12 10:55:00
+Event_Assessment_837,Horizon,entity_to_event,True,Assessment,2040-10-12 11:05:00
+Event_Monitoring_878,Horizon,entity_to_event,True,Monitoring,2040-10-13 09:08:00
+Event_Monitoring_909,Horizon,entity_to_event,True,Monitoring,2040-10-13 12:34:00
+Event_Monitoring_978,Horizon,entity_to_event,True,Monitoring,2040-10-14 11:37:00
+Event_Monitoring_83,Seawatch,entity_to_event,True,Monitoring,2040-10-01 12:44:00
+Event_VesselMovement_242,Seawatch,entity_to_event,True,VesselMovement,2040-10-04 08:03:00
+Event_Monitoring_243,Seawatch,entity_to_event,True,Monitoring,2040-10-04 08:03:00
+Event_Monitoring_678,Seawatch,entity_to_event,True,Monitoring,2040-10-10 10:47:00
+Event_Assessment_786,Seawatch,entity_to_event,True,Assessment,2040-10-11 10:47:00
+Event_Monitoring_909,Seawatch,entity_to_event,True,Monitoring,2040-10-13 12:34:00
+Event_Monitoring_934,Seawatch,entity_to_event,True,Monitoring,2040-10-14 08:06:00
+Event_Monitoring_105,EcoVigil,entity_to_event,True,Monitoring,2040-10-02 09:59:00
+Event_Collaborate_108,EcoVigil,entity_to_event,True,Collaborate,
+Event_Monitoring_208,EcoVigil,entity_to_event,True,Monitoring,2040-10-03 10:02:00
+Event_VesselMovement_242,EcoVigil,entity_to_event,True,VesselMovement,2040-10-04 08:03:00
+Event_Monitoring_243,EcoVigil,entity_to_event,True,Monitoring,2040-10-04 08:03:00
+Event_Monitoring_414,EcoVigil,entity_to_event,True,Monitoring,2040-10-06 12:24:00
+Event_VesselMovement_624,EcoVigil,entity_to_event,True,VesselMovement,2040-10-09 10:39:00
+Event_Assessment_625,EcoVigil,entity_to_event,True,Assessment,2040-10-09 10:39:00
+Event_Collaborate_626,EcoVigil,entity_to_event,True,Collaborate,2040-10-09 10:39:00
+Event_Enforcement_666,EcoVigil,entity_to_event,True,Enforcement,2040-10-10 09:54:00
+Event_VesselMovement_670,EcoVigil,entity_to_event,True,VesselMovement,2040-10-10 09:56:00
+Event_Monitoring_716,EcoVigil,entity_to_event,True,Monitoring,2040-10-11 08:07:00
+Event_Monitoring_752,EcoVigil,entity_to_event,True,Monitoring,2040-10-11 09:20:00
+Event_Monitoring_922,EcoVigil,entity_to_event,True,Monitoring,2040-10-13 07:00:00
+Event_Monitoring_929,EcoVigil,entity_to_event,True,Monitoring,2040-10-13 13:20:00
+Event_VesselMovement_931,EcoVigil,entity_to_event,True,VesselMovement,
+Event_Monitoring_932,EcoVigil,entity_to_event,True,Monitoring,2040-10-13 13:23:00
+Event_Monitoring_934,EcoVigil,entity_to_event,True,Monitoring,2040-10-14 08:06:00
+Event_Enforcement_952,EcoVigil,entity_to_event,True,Enforcement,2040-10-14 09:00:00
+Event_Monitoring_971,EcoVigil,entity_to_event,True,Monitoring,2040-10-14 11:32:00
+Event_Collaborate_972,EcoVigil,entity_to_event,True,Collaborate,2040-10-14 11:32:00
+Event_Monitoring_995,EcoVigil,entity_to_event,True,Monitoring,2040-10-14 12:51:00
+Event_Assessment_996,EcoVigil,entity_to_event,True,Assessment,2040-10-14 12:51:00
+Event_Monitoring_74,Sentinel,entity_to_event,True,Monitoring,2040-10-01 12:39:00
+Event_Assessment_172,Sentinel,entity_to_event,True,Assessment,2040-10-03 08:44:00
+Event_Monitoring_173,Sentinel,entity_to_event,True,Monitoring,2040-10-03 08:44:00
+Event_Enforcement_193,Sentinel,entity_to_event,True,Enforcement,2040-10-03 09:12:00
+Event_VesselMovement_242,Sentinel,entity_to_event,True,VesselMovement,2040-10-04 08:03:00
+Event_Monitoring_243,Sentinel,entity_to_event,True,Monitoring,2040-10-04 08:03:00
+Event_Monitoring_266,Sentinel,entity_to_event,True,Monitoring,2040-10-04 09:13:00
+Event_Monitoring_410,Sentinel,entity_to_event,True,Monitoring,2040-10-06 11:46:00
+Event_VesselMovement_483,Sentinel,entity_to_event,True,VesselMovement,2040-10-07 10:33:00
+Event_Monitoring_484,Sentinel,entity_to_event,True,Monitoring,2040-10-07 10:33:00
+Event_VesselMovement_563,Sentinel,entity_to_event,True,VesselMovement,2040-10-08 11:01:00
+Event_Assessment_567,Sentinel,entity_to_event,True,Assessment,2040-10-08 11:05:00
+Event_Enforcement_693,Sentinel,entity_to_event,True,Enforcement,2040-10-11 06:00:00
+Event_Monitoring_777,Sentinel,entity_to_event,True,Monitoring,2040-10-11 10:38:00
+Event_VesselMovement_904,Sentinel,entity_to_event,True,VesselMovement,
+Event_Monitoring_909,Sentinel,entity_to_event,True,Monitoring,2040-10-13 12:34:00
+Event_Monitoring_911,Sentinel,entity_to_event,True,Monitoring,2040-10-13 12:36:00
+Event_Monitoring_922,Sentinel,entity_to_event,True,Monitoring,2040-10-13 07:00:00
+Event_Monitoring_934,Sentinel,entity_to_event,True,Monitoring,2040-10-14 08:06:00
+Event_Assessment_973,Sentinel,entity_to_event,True,Assessment,2040-10-14 11:32:00
+Event_TourActivity_96,Osprey,entity_to_event,True,TourActivity,
+Event_TourActivity_140,Osprey,entity_to_event,True,TourActivity,
+Event_VesselMovement_242,Osprey,entity_to_event,True,VesselMovement,2040-10-04 08:03:00
+Event_Monitoring_243,Osprey,entity_to_event,True,Monitoring,2040-10-04 08:03:00
+Event_VesselMovement_806,Osprey,entity_to_event,True,VesselMovement,2040-10-13 08:00:00
+Event_TourActivity_807,Osprey,entity_to_event,True,TourActivity,
+Event_TourActivity_816,Osprey,entity_to_event,True,TourActivity,2040-10-13 08:00:00
+Event_Monitoring_168,Defender,entity_to_event,True,Monitoring,2040-10-03 08:39:00
+Event_VesselMovement_242,Defender,entity_to_event,True,VesselMovement,2040-10-04 08:03:00
+Event_Monitoring_243,Defender,entity_to_event,True,Monitoring,2040-10-04 08:03:00
+Event_Monitoring_688,Defender,entity_to_event,True,Monitoring,2040-10-10 11:23:00
+Event_Enforcement_769,Defender,entity_to_event,True,Enforcement,2040-10-11 10:13:00
+Event_Monitoring_934,Defender,entity_to_event,True,Monitoring,2040-10-14 08:06:00
+Event_VesselMovement_634,Northern Light,entity_to_event,True,VesselMovement,
+Event_VesselMovement_326,Remora,entity_to_event,True,VesselMovement,2040-10-05 08:58:00
+Event_VesselMovement_344,Remora,entity_to_event,True,VesselMovement,2040-10-05 10:02:00
+Event_Collaborate_422,Remora,entity_to_event,True,Collaborate,2040-10-06 12:33:00
+Event_Collaborate_424,Remora,entity_to_event,True,Collaborate,2040-10-06 12:35:00
+Event_Collaborate_455,Remora,entity_to_event,True,Collaborate,2040-10-08 05:00:00
+Event_Assessment_492,Remora,entity_to_event,True,Assessment,2040-10-07 11:02:00
+Event_VesselMovement_494,Remora,entity_to_event,True,VesselMovement,2040-10-08 06:00:00
+Event_TourActivity_498,Remora,entity_to_event,True,TourActivity,2040-10-08 05:30:00
+Event_VesselMovement_509,Remora,entity_to_event,True,VesselMovement,2040-10-08 05:30:00
+Event_VesselMovement_510,Remora,entity_to_event,True,VesselMovement,2040-10-08 05:30:00
+Event_VesselMovement_516,Remora,entity_to_event,True,VesselMovement,2040-10-08 06:00:00
+Event_VesselMovement_540,Remora,entity_to_event,True,VesselMovement,2040-10-09 05:00:00
+Event_Collaborate_554,Remora,entity_to_event,True,Collaborate,
+Event_Collaborate_557,Remora,entity_to_event,True,Collaborate,2040-10-08 10:37:00
+Event_Collaborate_760,Remora,entity_to_event,True,Collaborate,2040-10-11 10:01:00
+Event_VesselMovement_843,Remora,entity_to_event,True,VesselMovement,2040-10-12 11:14:00
+Event_VesselMovement_892,Remora,entity_to_event,True,VesselMovement,2040-10-13 02:00:00
+Event_TourActivity_938,Remora,entity_to_event,True,TourActivity,2040-10-14 06:00:00
+Event_Monitoring_941,Remora,entity_to_event,True,Monitoring,2040-10-14 08:34:00
+Event_Monitoring_942,Remora,entity_to_event,True,Monitoring,2040-10-14 08:34:00
+Event_Monitoring_957,Remora,entity_to_event,True,Monitoring,2040-10-14 09:04:00
+Event_VesselMovement_883,Knowles,entity_to_event,True,VesselMovement,2040-10-13 22:00:00
+Event_VesselMovement_887,Knowles,entity_to_event,True,VesselMovement,2040-10-13 22:00:00
+Event_VesselMovement_1002,Knowles,entity_to_event,True,VesselMovement,2040-10-14 22:00:00
+Event_TourActivity_188,Mariner's Dream,entity_to_event,True,TourActivity,2040-10-03 09:04:00
+Event_VesselMovement_190,Recreational Fishing Boats,entity_to_event,True,VesselMovement,
+Event_TourActivity_46,Tourists,entity_to_event,True,TourActivity,2040-10-01 11:01:00
+Event_Monitoring_722,Conservation Vessels,entity_to_event,True,Monitoring,
+Event_Assessment_765,Conservation Vessels,entity_to_event,True,Assessment,2040-10-11 10:09:00
+Event_Monitoring_766,Conservation Vessels,entity_to_event,True,Monitoring,2040-10-11 10:09:00
+Event_Enforcement_29,Paackland Harbor,entity_to_event,True,Enforcement,2040-10-01 10:43:00
+Event_Monitoring_148,Paackland Harbor,entity_to_event,True,Monitoring,2040-10-01 00:00:00
+Event_Assessment_329,Haacklee Harbor,entity_to_event,True,Assessment,2040-10-04 00:00:00
+Event_Enforcement_784,Himark Harbor,entity_to_event,True,Enforcement,2040-10-11 10:44:00
+Event_Enforcement_992,Himark Harbor,entity_to_event,True,Enforcement,2040-10-14 12:47:00
+Event_Enforcement_947,Port Security,entity_to_event,True,Enforcement,2040-10-14 08:40:00
+Event_Monitoring_0,Eastern Coastline,event_to_entity,True,Monitoring,2040-10-01 08:09:00
+Event_Monitoring_33,Nemo Reef,event_to_entity,True,Monitoring,2040-10-01 10:48:00
+Event_Monitoring_33,Protected areas,event_to_entity,True,Monitoring,2040-10-01 10:48:00
+Event_Monitoring_38,Nemo Reef,event_to_entity,True,Monitoring,
+Event_Monitoring_60,Nemo Reef,event_to_entity,True,Monitoring,2040-10-01 11:40:00
+Event_Monitoring_60,Protected areas,event_to_entity,True,Monitoring,2040-10-01 11:40:00
+Event_Monitoring_68,Western Boundary,event_to_entity,True,Monitoring,2040-10-01 12:34:00
+Event_Monitoring_68,Protected areas,event_to_entity,True,Monitoring,2040-10-01 12:34:00
+Event_Monitoring_71,Western Boundary,event_to_entity,True,Monitoring,2040-10-01 12:37:00
+Event_Monitoring_73,Eastern Boundary,event_to_entity,True,Monitoring,2040-10-01 12:39:00
+Event_Monitoring_74,Western Boundary,event_to_entity,True,Monitoring,2040-10-01 12:39:00
+Event_Monitoring_77,Western Boundary,event_to_entity,True,Monitoring,2040-10-01 12:40:00
+Event_Monitoring_77,Nemo Reef,event_to_entity,True,Monitoring,2040-10-01 12:40:00
+Event_Monitoring_83,Nemo Reef,event_to_entity,True,Monitoring,2040-10-01 12:44:00
+Event_Monitoring_105,Eastern Boundary,event_to_entity,True,Monitoring,2040-10-02 09:59:00
+Event_Monitoring_129,Nemo Reef,event_to_entity,True,Monitoring,2040-10-02 12:16:00
+Event_Monitoring_133,Protected areas,event_to_entity,True,Monitoring,2040-10-02 12:22:00
+Event_Monitoring_148,Nemo Reef,event_to_entity,True,Monitoring,2040-10-01 00:00:00
+Event_Monitoring_164,Nemo Reef,event_to_entity,True,Monitoring,2040-10-03 08:35:00
+Event_Monitoring_164,Restricted Zone,event_to_entity,True,Monitoring,2040-10-03 08:35:00
+Event_Monitoring_168,Nemo Reef,event_to_entity,True,Monitoring,2040-10-03 08:39:00
+Event_Monitoring_192,Nemo Reef,event_to_entity,True,Monitoring,2040-10-03 09:12:00
+Event_Monitoring_208,Restricted areas,event_to_entity,True,Monitoring,2040-10-03 10:02:00
+Event_Monitoring_232,Restricted Zone,event_to_entity,True,Monitoring,2040-10-03 10:38:00
+Event_Monitoring_253,E7,event_to_entity,True,Monitoring,2040-10-04 08:38:00
+Event_Monitoring_255,E7,event_to_entity,True,Monitoring,2040-10-04 08:41:00
+Event_Monitoring_266,Nemo Reef,event_to_entity,True,Monitoring,2040-10-04 09:13:00
+Event_Monitoring_286,Nemo Reef,event_to_entity,True,Monitoring,2040-10-04 11:04:00
+Event_Monitoring_358,South Dock,event_to_entity,True,Monitoring,2040-10-05 10:30:00
+Event_Monitoring_414,Protected areas,event_to_entity,True,Monitoring,2040-10-06 12:24:00
+Event_Monitoring_444,Haacklee Harbor,event_to_entity,True,Monitoring,2040-10-07 08:14:00
+Event_Monitoring_484,Southern Boundary,event_to_entity,True,Monitoring,2040-10-07 10:33:00
+Event_Monitoring_530,Nemo Reef,event_to_entity,True,Monitoring,2040-10-08 08:21:00
+Event_Monitoring_534,Nemo Reef,event_to_entity,True,Monitoring,
+Event_Monitoring_595,Nemo Reef,event_to_entity,True,Monitoring,2040-10-09 08:12:00
+Event_Monitoring_631,Nemo Reef,event_to_entity,True,Monitoring,2040-10-09 10:44:00
+Event_Monitoring_661,Western quadrant,event_to_entity,True,Monitoring,2040-10-10 09:32:00
+Event_Monitoring_688,Eastern Boundary,event_to_entity,True,Monitoring,2040-10-10 11:23:00
+Event_Monitoring_704,Nemo Reef,event_to_entity,True,Monitoring,2040-10-10 05:00:00
+Event_Monitoring_709,Eastern quadrant,event_to_entity,True,Monitoring,2040-10-10 21:00:00
+Event_Monitoring_722,Nemo Reef,event_to_entity,True,Monitoring,
+Event_Monitoring_752,Northern quadrant,event_to_entity,True,Monitoring,2040-10-11 09:20:00
+Event_Monitoring_766,Restricted areas,event_to_entity,True,Monitoring,2040-10-11 10:09:00
+Event_Monitoring_797,Eastern quadrant,event_to_entity,True,Monitoring,2040-10-12 08:59:00
+Event_Monitoring_803,Nemo Reef,event_to_entity,True,Monitoring,2040-10-12 09:24:00
+Event_Monitoring_835,Restricted areas,event_to_entity,True,Monitoring,2040-10-12 11:02:00
+Event_Monitoring_856,Southern quadrant,event_to_entity,True,Monitoring,2040-10-12 12:59:00
+Event_Monitoring_878,Western quadrant,event_to_entity,True,Monitoring,2040-10-13 09:08:00
+Event_Monitoring_911,Western quadrant,event_to_entity,True,Monitoring,2040-10-13 12:36:00
+Event_Monitoring_917,Western Boundary,event_to_entity,True,Monitoring,2040-10-13 12:41:00
+Event_Monitoring_929,Restricted Zone,event_to_entity,True,Monitoring,2040-10-13 13:20:00
+Event_Monitoring_932,Western quadrant,event_to_entity,True,Monitoring,2040-10-13 13:23:00
+Event_Monitoring_941,Conservation Vessels,event_to_entity,True,Monitoring,2040-10-14 08:34:00
+Event_Monitoring_942,Nemo Reef,event_to_entity,True,Monitoring,2040-10-14 08:34:00
+Event_Monitoring_946,Nemo Reef,event_to_entity,True,Monitoring,2040-10-14 08:40:00
+Event_Monitoring_957,Restricted Zone,event_to_entity,True,Monitoring,2040-10-14 09:04:00
+Event_Monitoring_967,Protected areas,event_to_entity,True,Monitoring,2040-10-14 10:58:00
+Event_Monitoring_978,Nemo Reef,event_to_entity,True,Monitoring,2040-10-14 11:37:00
+Event_Monitoring_995,Nemo Reef,event_to_entity,True,Monitoring,2040-10-14 12:51:00
+Event_Assessment_14,Azure Cove,event_to_entity,True,Assessment,2040-10-01 08:52:00
+Event_Assessment_18,Coral Point,event_to_entity,True,Assessment,2040-10-01 09:02:00
+Event_Assessment_18,Dolphin Bay,event_to_entity,True,Assessment,2040-10-01 09:02:00
+Event_Assessment_41,Nemo Reef,event_to_entity,True,Assessment,2040-10-01 10:56:00
+Event_Assessment_56,Dolphin Bay,event_to_entity,True,Assessment,
+Event_Assessment_65,Nemo Reef,event_to_entity,True,Assessment,2040-10-01 12:27:00
+Event_Assessment_101,Nemo Reef,event_to_entity,True,Assessment,
+Event_Assessment_114,Coral Point,event_to_entity,True,Assessment,
+Event_Assessment_114,Dolphin Bay,event_to_entity,True,Assessment,
+Event_Assessment_174,Nemo Reef,event_to_entity,True,Assessment,2040-10-03 08:46:00
+Event_Assessment_198,Southern coastline,event_to_entity,True,Assessment,2040-10-03 09:28:00
+Event_Assessment_223,Nemo Reef,event_to_entity,True,Assessment,2040-10-03 10:19:00
+Event_Assessment_223,Southern coastline,event_to_entity,True,Assessment,2040-10-03 10:19:00
+Event_Assessment_329,Nemo Reef,event_to_entity,True,Assessment,2040-10-04 00:00:00
+Event_Assessment_337,Nemo Reef,event_to_entity,True,Assessment,2040-10-05 09:52:00
+Event_Assessment_445,Haacklee Harbor,event_to_entity,True,Assessment,2040-10-07 08:14:00
+Event_Assessment_463,Eastern reefs,event_to_entity,True,Assessment,2040-10-07 09:38:00
+Event_Assessment_488,Eastern Boundary,event_to_entity,True,Assessment,2040-10-07 10:36:00
+Event_Assessment_492,Nemo Reef,event_to_entity,True,Assessment,2040-10-07 11:02:00
+Event_Assessment_522,Nemo Reef,event_to_entity,True,Assessment,2040-10-08 08:10:00
+Event_Assessment_583,Eastern Shoals,event_to_entity,True,Assessment,2040-10-08 11:23:00
+Event_Assessment_600,Nemo Reef,event_to_entity,True,Assessment,2040-10-09 08:54:00
+Event_Assessment_628,Nemo Reef,event_to_entity,True,Assessment,
+Event_Assessment_650,Restricted areas,event_to_entity,True,Assessment,2040-10-10 08:12:00
+Event_Assessment_701,Nemo Reef,event_to_entity,True,Assessment,2040-10-10 05:00:00
+Event_Assessment_703,Nemo Reef,event_to_entity,True,Assessment,2040-10-10 05:00:00
+Event_Assessment_765,Restricted areas,event_to_entity,True,Assessment,2040-10-11 10:09:00
+Event_Assessment_786,Nemo Reef,event_to_entity,True,Assessment,2040-10-11 10:47:00
+Event_Assessment_791,Nemo Reef,event_to_entity,True,Assessment,2040-10-11 10:52:00
+Event_Assessment_837,Nemo Reef,event_to_entity,True,Assessment,2040-10-12 11:05:00
+Event_Assessment_966,Protected areas,event_to_entity,True,Assessment,2040-10-14 10:58:00
+Event_Assessment_973,Nemo Reef,event_to_entity,True,Assessment,2040-10-14 11:32:00
+Event_Assessment_996,Nemo Reef,event_to_entity,True,Assessment,2040-10-14 12:51:00
+Event_VesselMovement_25,Himark Harbor,event_to_entity,True,VesselMovement,2040-10-01 09:58:00
+Event_VesselMovement_122,Himark Harbor,event_to_entity,True,VesselMovement,2040-10-02 12:09:00
+Event_VesselMovement_154,Nemo Reef,event_to_entity,True,VesselMovement,
+Event_VesselMovement_157,Himark Harbor,event_to_entity,True,VesselMovement,2040-10-02 16:00:00
+Event_VesselMovement_157,South Dock,event_to_entity,True,VesselMovement,2040-10-02 16:00:00
+Event_VesselMovement_190,Himark Harbor,event_to_entity,True,VesselMovement,
+Event_VesselMovement_210,Western quadrant,event_to_entity,True,VesselMovement,2040-10-03 18:00:00
+Event_VesselMovement_284,Eastern Boundary,event_to_entity,True,VesselMovement,2040-10-04 11:03:00
+Event_VesselMovement_288,Eastern quadrant,event_to_entity,True,VesselMovement,
+Event_VesselMovement_300,Eastern Islands,event_to_entity,True,VesselMovement,2040-10-04 08:30:00
+Event_VesselMovement_303,Himark Harbor,event_to_entity,True,VesselMovement,2040-10-04 08:30:00
+Event_VesselMovement_303,Eastern Islands,event_to_entity,True,VesselMovement,2040-10-04 08:30:00
+Event_VesselMovement_326,Himark Harbor,event_to_entity,True,VesselMovement,2040-10-05 08:58:00
+Event_VesselMovement_363,Himark Harbor,event_to_entity,True,VesselMovement,2040-10-05 10:36:00
+Event_VesselMovement_363,Nemo Reef,event_to_entity,True,VesselMovement,2040-10-05 10:36:00
+Event_VesselMovement_393,Nemo Reef,event_to_entity,True,VesselMovement,
+Event_VesselMovement_402,Himark Harbor,event_to_entity,True,VesselMovement,
+Event_VesselMovement_483,Southern Boundary,event_to_entity,True,VesselMovement,2040-10-07 10:33:00
+Event_VesselMovement_494,Eastern reefs,event_to_entity,True,VesselMovement,2040-10-08 06:00:00
+Event_VesselMovement_495,Eastern reefs,event_to_entity,True,VesselMovement,2040-10-08 06:00:00
+Event_VesselMovement_503,Eastern reefs,event_to_entity,True,VesselMovement,2040-10-08 06:00:00
+Event_VesselMovement_509,Nemo Reef,event_to_entity,True,VesselMovement,2040-10-08 05:30:00
+Event_VesselMovement_510,Route C,event_to_entity,True,VesselMovement,2040-10-08 05:30:00
+Event_VesselMovement_549,Nemo Reef,event_to_entity,True,VesselMovement,2040-10-08 19:00:00
+Event_VesselMovement_563,Nemo Reef,event_to_entity,True,VesselMovement,2040-10-08 11:01:00
+Event_VesselMovement_569,Nemo Reef,event_to_entity,True,VesselMovement,2040-10-08 11:08:00
+Event_VesselMovement_577,Himark Harbor,event_to_entity,True,VesselMovement,2040-10-08 11:16:00
+Event_VesselMovement_580,Eastern Shoals,event_to_entity,True,VesselMovement,2040-10-08 11:20:00
+Event_VesselMovement_629,Eastern quadrant,event_to_entity,True,VesselMovement,
+Event_VesselMovement_634,Himark Harbor,event_to_entity,True,VesselMovement,
+Event_VesselMovement_670,Nemo Reef,event_to_entity,True,VesselMovement,2040-10-10 09:56:00
+Event_VesselMovement_798,Northern quadrant,event_to_entity,True,VesselMovement,2040-10-12 08:59:00
+Event_VesselMovement_806,Himark Harbor,event_to_entity,True,VesselMovement,2040-10-13 08:00:00
+Event_VesselMovement_843,Neptune,event_to_entity,True,VesselMovement,2040-10-12 11:14:00
+Event_VesselMovement_883,Haacklee Harbor,event_to_entity,True,VesselMovement,2040-10-13 22:00:00
+Event_VesselMovement_887,Nemo Reef,event_to_entity,True,VesselMovement,2040-10-13 22:00:00
+Event_VesselMovement_892,South Dock,event_to_entity,True,VesselMovement,2040-10-13 02:00:00
+Event_VesselMovement_904,Paackland Harbor,event_to_entity,True,VesselMovement,
+Event_VesselMovement_931,Northern quadrant,event_to_entity,True,VesselMovement,
+Event_VesselMovement_944,Dolphin Bay,event_to_entity,True,VesselMovement,2040-10-15 00:00:00
+Event_VesselMovement_980,Berth 14,event_to_entity,True,VesselMovement,2040-10-14 04:00:00
+Event_VesselMovement_1000,South Dock,event_to_entity,True,VesselMovement,2023-10-14 22:00:00
+Event_VesselMovement_1002,South Dock,event_to_entity,True,VesselMovement,2040-10-14 22:00:00
+Event_Enforcement_29,Remora,event_to_entity,True,Enforcement,2040-10-01 10:43:00
+Event_Enforcement_34,Protected areas,event_to_entity,True,Enforcement,2040-10-01 10:48:00
+Event_Enforcement_34,Nemo Reef,event_to_entity,True,Enforcement,2040-10-01 10:48:00
+Event_Enforcement_42,Nemo Reef,event_to_entity,True,Enforcement,2040-10-01 10:56:00
+Event_Enforcement_44,Paackland Harbor,event_to_entity,True,Enforcement,2040-10-01 10:58:00
+Event_Enforcement_177,Nemo Reef,event_to_entity,True,Enforcement,2040-10-03 08:49:00
+Event_Enforcement_193,Mariner's Dream,event_to_entity,True,Enforcement,2040-10-03 09:12:00
+Event_Enforcement_233,Northern Light,event_to_entity,True,Enforcement,2040-10-03 10:38:00
+Event_Enforcement_235,Nemo Reef,event_to_entity,True,Enforcement,2040-10-03 10:39:00
+Event_Enforcement_261,Mako,event_to_entity,True,Enforcement,2040-10-04 08:47:00
+Event_Enforcement_292,Mako,event_to_entity,True,Enforcement,2040-10-04 11:29:00
+Event_Enforcement_666,Nemo Reef,event_to_entity,True,Enforcement,2040-10-10 09:54:00
+Event_Enforcement_693,Nemo Reef,event_to_entity,True,Enforcement,2040-10-11 06:00:00
+Event_Enforcement_745,Nemo Reef,event_to_entity,True,Enforcement,2040-10-11 09:12:00
+Event_Enforcement_769,Restricted areas,event_to_entity,True,Enforcement,2040-10-11 10:13:00
+Event_Enforcement_784,Nemo Reef,event_to_entity,True,Enforcement,2040-10-11 10:44:00
+Event_Enforcement_839,Nemo Reef,event_to_entity,True,Enforcement,2040-10-13 06:00:00
+Event_Enforcement_854,Reef Guardian,event_to_entity,True,Enforcement,2040-10-12 12:57:00
+Event_Enforcement_854,Nemo Reef,event_to_entity,True,Enforcement,2040-10-12 12:57:00
+Event_Enforcement_947,Reef Guardian,event_to_entity,True,Enforcement,2040-10-14 08:40:00
+Event_Enforcement_952,Northern quadrant,event_to_entity,True,Enforcement,2040-10-14 09:00:00
+Event_Enforcement_992,Seawatch,event_to_entity,True,Enforcement,2040-10-14 12:47:00
+Event_Enforcement_998,Nemo Reef,event_to_entity,True,Enforcement,2040-10-14 13:31:00
+Event_TourActivity_46,Nemo Reef,event_to_entity,True,TourActivity,2040-10-01 11:01:00
+Event_TourActivity_61,Nemo Reef,event_to_entity,True,TourActivity,2040-10-01 11:40:00
+Event_TourActivity_61,Protected areas,event_to_entity,True,TourActivity,2040-10-01 11:40:00
+Event_TourActivity_70,Nemo Reef,event_to_entity,True,TourActivity,2040-10-01 12:37:00
+Event_TourActivity_70,Protected areas,event_to_entity,True,TourActivity,2040-10-01 12:37:00
+Event_TourActivity_96,Haacklee Harbor,event_to_entity,True,TourActivity,
+Event_TourActivity_137,Himark Harbor,event_to_entity,True,TourActivity,
+Event_TourActivity_140,Himark Harbor,event_to_entity,True,TourActivity,
+Event_TourActivity_188,Nemo Reef,event_to_entity,True,TourActivity,2040-10-03 09:04:00
+Event_TourActivity_807,Nemo Reef,event_to_entity,True,TourActivity,
+Event_TourActivity_814,Castaway Cove,event_to_entity,True,TourActivity,2040-10-13 08:00:00
+Event_TourActivity_816,Castaway Cove,event_to_entity,True,TourActivity,2040-10-13 08:00:00
+Event_TourActivity_938,South Dock,event_to_entity,True,TourActivity,2040-10-14 06:00:00
+Event_TourActivity_962,Nemo Reef,event_to_entity,True,TourActivity,
+Event_Fishing_49,Himark Harbor,event_to_entity,True,Fishing,
+Event_Criticize_52,Oceanus City Council,event_to_entity,True,Criticize,
+Event_Collaborate_184,Green Guardians,event_to_entity,True,Collaborate,2040-10-03 08:53:00
+Event_Collaborate_200,Knowles,event_to_entity,True,Collaborate,2040-10-03 09:47:00
+Event_Collaborate_236,Oceanus City Council,event_to_entity,True,Collaborate,2040-10-03 10:39:00
+Event_Collaborate_364,Mako,event_to_entity,True,Collaborate,2040-10-05 10:36:00
+Event_Collaborate_477,City Officials,event_to_entity,True,Collaborate,2040-10-07 10:28:00
+Event_Collaborate_512,Glitters Team,event_to_entity,True,Collaborate,
+Event_Collaborate_517,Mako,event_to_entity,True,Collaborate,2040-10-08 05:00:00
+Event_Collaborate_517,Remora,event_to_entity,True,Collaborate,2040-10-08 05:00:00
+Event_Collaborate_542,Remora,event_to_entity,True,Collaborate,2040-10-08 10:17:00
+Event_Collaborate_550,Nadia Conti,event_to_entity,True,Collaborate,2040-10-08 19:00:00
+Event_Collaborate_554,Mako,event_to_entity,True,Collaborate,
+Event_Collaborate_557,Neptune,event_to_entity,True,Collaborate,2040-10-08 10:37:00
+Event_Collaborate_697,Oceanus City Council,event_to_entity,True,Collaborate,2040-10-11 10:00:00
+Event_Collaborate_719,The Lookout,event_to_entity,True,Collaborate,2040-10-11 05:00:00
+Event_Collaborate_723,Sentinel,event_to_entity,True,Collaborate,2040-10-11 05:00:00
+Event_Collaborate_760,V. Miesel Shipping,event_to_entity,True,Collaborate,2040-10-11 10:01:00
+Event_Collaborate_818,Mako,event_to_entity,True,Collaborate,2040-10-12 06:00:00
+Event_HarborReport_215,Southern islands,event_to_entity,True,HarborReport,
+Event_HarborReport_215,Protected areas,event_to_entity,True,HarborReport,
+Event_HarborReport_927,Paackland Harbor,event_to_entity,True,HarborReport,
+Event_TransponderPing_251,E7,event_to_entity,True,TransponderPing,
+Event_TransponderPing_271,Protected areas,event_to_entity,True,TransponderPing,
+Event_TransponderPing_308,Nemo Reef,event_to_entity,True,TransponderPing,

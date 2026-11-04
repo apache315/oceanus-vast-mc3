@@ -1,0 +1,73 @@
+type,label,name,sub_type,id
+Entity,Sam,Sam,Person,Sam
+Entity,Kelly,Kelly,Person,Kelly
+Entity,Nadia Conti,Nadia Conti,Person,Nadia Conti
+Entity,Elise,Elise,Person,Elise
+Entity,Liam Thorne,Liam Thorne,Person,Liam Thorne
+Entity,Samantha Blake,Samantha Blake,Person,Samantha Blake
+Entity,Davis,Davis,Person,Davis
+Entity,Rodriguez,Rodriguez,Person,Rodriguez
+Entity,Sailor Shift,Sailor Shift,Person,Sailor Shift
+Entity,Clepper Jensen,Clepper Jensen,Person,Clepper Jensen
+Entity,Miranda Jordan,Miranda Jordan,Person,Miranda Jordan
+Entity,The Intern,The Intern,Person,The Intern
+Entity,The Lookout,The Lookout,Person,The Lookout
+Entity,The Accountant,The Accountant,Person,The Accountant
+Entity,Mrs. Money,Mrs. Money,Person,Mrs. Money
+Entity,The Middleman,The Middleman,Person,The Middleman
+Entity,Boss,Boss,Person,Boss
+Entity,Small Fry,Small Fry,Person,Small Fry
+Entity,Glitters Team,Glitters Team,Organization,Glitters Team
+Entity,Oceanus City Council,Oceanus City Council,Organization,Oceanus City Council
+Entity,Green Guardians,Green Guardians,Organization,Green Guardians
+Entity,V. Miesel Shipping,V. Miesel Shipping,Organization,V. Miesel Shipping
+Entity,Sailor Shifts Team,Sailor Shifts Team,Organization,Sailor Shifts Team
+Entity,Neptune,Neptune,Vessel,Neptune
+Entity,Marlin,Marlin,Vessel,Marlin
+Entity,Serenity,Serenity,Vessel,Serenity
+Entity,Mako,Mako,Vessel,Mako
+Entity,Reef Guardian,Reef Guardian,Vessel,Reef Guardian
+Entity,Horizon,Horizon,Vessel,Horizon
+Entity,Seawatch,Seawatch,Vessel,Seawatch
+Entity,EcoVigil,EcoVigil,Vessel,EcoVigil
+Entity,Sentinel,Sentinel,Vessel,Sentinel
+Entity,Osprey,Osprey,Vessel,Osprey
+Entity,Defender,Defender,Vessel,Defender
+Entity,Northern Light,Northern Light,Vessel,Northern Light
+Entity,Remora,Remora,Vessel,Remora
+Entity,Knowles,Knowles,Vessel,Knowles
+Entity,Mariner's Dream,Mariner's Dream,Vessel,Mariner's Dream
+Entity,Recreational Fishing Boats,Recreational Fishing Boats,Group,Recreational Fishing Boats
+Entity,City Officials,City Officials,Group,City Officials
+Entity,Diving Tour Operators,Diving Tour Operators,Group,Diving Tour Operators
+Entity,Tourists,Tourists,Group,Tourists
+Entity,Conservation Vessels,Conservation Vessels,Group,Conservation Vessels
+Entity,Paackland Harbor,Paackland Harbor,Location,Paackland Harbor
+Entity,Haacklee Harbor,Haacklee Harbor,Location,Haacklee Harbor
+Entity,Himark Harbor,Himark Harbor,Location,Himark Harbor
+Entity,Nemo Reef,Nemo Reef,Location,Nemo Reef
+Entity,Restricted areas,Restricted areas,Location,Restricted areas
+Entity,Azure Cove,Azure Cove,Location,Azure Cove
+Entity,Protected areas,Protected areas,Location,Protected areas
+Entity,Eastern reefs,Eastern reefs,Location,Eastern reefs
+Entity,Eastern Coastline,Eastern Coastline,Location,Eastern Coastline
+Entity,Southern islands,Southern islands,Location,Southern islands
+Entity,Southern coastline,Southern coastline,Location,Southern coastline
+Entity,Coral Point,Coral Point,Location,Coral Point
+Entity,Dolphin Bay,Dolphin Bay,Location,Dolphin Bay
+Entity,E7,E7,Location,E7
+Entity,Northern quadrant,Northern quadrant,Location,Northern quadrant
+Entity,Southern quadrant,Southern quadrant,Location,Southern quadrant
+Entity,Eastern quadrant,Eastern quadrant,Location,Eastern quadrant
+Entity,Western quadrant,Western quadrant,Location,Western quadrant
+Entity,Eastern Islands,Eastern Islands,Location,Eastern Islands
+Entity,Western Boundary,Western Boundary,Location,Western Boundary
+Entity,Eastern Boundary,Eastern Boundary,Location,Eastern Boundary
+Entity,Southern Boundary,Southern Boundary,Location,Southern Boundary
+Entity,Eastern Shoals,Eastern Shoals,Location,Eastern Shoals
+Entity,Restricted Zone,Restricted Zone,Location,Restricted Zone
+Entity,Route C,Route C,Location,Route C
+Entity,South Dock,South Dock,Location,South Dock
+Entity,Castaway Cove,Castaway Cove,Location,Castaway Cove
+Entity,Berth 14,Berth 14,Location,Berth 14
+Entity,Port Security,Port Security,Location,Port Security

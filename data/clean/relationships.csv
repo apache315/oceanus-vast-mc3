@@ -1,0 +1,290 @@
+rel_id,rel_type,source,target,source_type,target_type,directed,friendship_type,permission_type,start_date,end_date,report_type,submission_date,jurisdiction_type,authority_level,coordination_type,operational_role,coordination_type_norm,coordination_type_group,operational_role_norm,operational_role_group,jurisdiction_type_norm,jurisdiction_type_group,operational_role_is_entity,pair_key,is_duplicate,self_relation
+Relationship_Friends_0,Friends,The Intern,The Lookout,Entity,Entity,False,informal,,,,,,,,,,,,,,,,False,The Intern|The Lookout,False,False
+Relationship_Friends_272,Friends,Kelly,Sam,Entity,Entity,False,collaborative,,,,,,,,,,,,,,,,False,Kelly|Sam,False,False
+Relationship_Colleagues_2,Colleagues,Boss,Mrs. Money,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Boss|Mrs. Money,False,False
+Relationship_Colleagues_11,Colleagues,Boss,The Middleman,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Boss|The Middleman,False,False
+Relationship_Colleagues_16,Colleagues,Rodriguez,Sailor Shifts Team,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Rodriguez|Sailor Shifts Team,False,False
+Relationship_Colleagues_45,Colleagues,Davis,Sailor Shift,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Davis|Sailor Shift,False,False
+Relationship_Colleagues_66,Colleagues,Davis,Mako,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Davis|Mako,False,False
+Relationship_Colleagues_80,Colleagues,Remora,Small Fry,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Remora|Small Fry,False,False
+Relationship_Colleagues_83,Colleagues,Remora,Rodriguez,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Remora|Rodriguez,False,False
+Relationship_Colleagues_84,Colleagues,Mrs. Money,The Intern,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Mrs. Money|The Intern,False,False
+Relationship_Colleagues_102,Colleagues,Boss,Rodriguez,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Boss|Rodriguez,False,False
+Relationship_Colleagues_121,Colleagues,Liam Thorne,Oceanus City Council,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Liam Thorne|Oceanus City Council,False,False
+Relationship_Colleagues_158,Colleagues,Mrs. Money,The Middleman,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Mrs. Money|The Middleman,False,False
+Relationship_Colleagues_215,Colleagues,Kelly,Sam,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Kelly|Sam,False,False
+Relationship_Colleagues_290,Colleagues,Clepper Jensen,Miranda Jordan,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Clepper Jensen|Miranda Jordan,False,False
+Relationship_Colleagues_319,Colleagues,Nadia Conti,Neptune,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Nadia Conti|Neptune,False,False
+Relationship_Colleagues_320,Colleagues,Elise,Neptune,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Elise|Neptune,False,False
+Relationship_Colleagues_321,Colleagues,Elise,Nadia Conti,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Elise|Nadia Conti,False,False
+Relationship_Colleagues_322,Colleagues,Nadia Conti,The Accountant,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Nadia Conti|The Accountant,False,False
+Relationship_Colleagues_323,Colleagues,Mako,Remora,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Mako|Remora,False,False
+Relationship_Colleagues_430,Colleagues,Elise,Sam,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Elise|Sam,False,False
+Relationship_Colleagues_431,Colleagues,Nadia Conti,Sam,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Nadia Conti|Sam,False,False
+Relationship_Colleagues_494,Colleagues,Liam Thorne,Nadia Conti,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Liam Thorne|Nadia Conti,False,False
+Relationship_Colleagues_535,Colleagues,Boss,Small Fry,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Boss|Small Fry,False,False
+Relationship_Colleagues_536,Colleagues,Boss,Davis,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Boss|Davis,False,False
+Relationship_Colleagues_551,Colleagues,Davis,Nadia Conti,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Davis|Nadia Conti,False,False
+Relationship_Colleagues_589,Colleagues,The Intern,The Lookout,Entity,Entity,False,,,,,,,,,,,,,,,,,False,The Intern|The Lookout,False,False
+Relationship_Colleagues_599,Colleagues,Boss,The Accountant,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Boss|The Accountant,False,False
+Relationship_Colleagues_601,Colleagues,The Accountant,The Middleman,Entity,Entity,False,,,,,,,,,,,,,,,,,False,The Accountant|The Middleman,False,False
+Relationship_Colleagues_617,Colleagues,Davis,Small Fry,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Davis|Small Fry,False,False
+Relationship_Colleagues_619,Colleagues,Davis,Rodriguez,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Davis|Rodriguez,False,False
+Relationship_Colleagues_628,Colleagues,Davis,Knowles,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Davis|Knowles,False,False
+Relationship_AccessPermission_7,AccessPermission,Serenity,Nemo Reef,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Nemo Reef|Serenity,False,False
+Relationship_AccessPermission_68,AccessPermission,Sailor Shifts Team,Nemo Reef,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Nemo Reef|Sailor Shifts Team,False,False
+Relationship_AccessPermission_81,AccessPermission,Glitters Team,Nemo Reef,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Glitters Team|Nemo Reef,False,False
+Relationship_AccessPermission_96,AccessPermission,Mariner's Dream,Nemo Reef,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Mariner's Dream|Nemo Reef,False,False
+Relationship_AccessPermission_98,AccessPermission,Mariner's Dream,Restricted areas,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Mariner's Dream|Restricted areas,False,False
+Relationship_AccessPermission_100,AccessPermission,Remora,Southern islands,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Remora|Southern islands,False,False
+Relationship_AccessPermission_101,AccessPermission,Boss,Nemo Reef,Entity,Entity,True,,special access,,,,,,,,,,,,,,,False,Boss|Nemo Reef,False,False
+Relationship_AccessPermission_118,AccessPermission,Diving Tour Operators,Protected areas,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Diving Tour Operators|Protected areas,False,False
+Relationship_AccessPermission_122,AccessPermission,Remora,Protected areas,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Protected areas|Remora,False,False
+Relationship_AccessPermission_125,AccessPermission,V. Miesel Shipping,Protected areas,Entity,Entity,True,,special access,,,,,,,,,,,,,,,False,Protected areas|V. Miesel Shipping,False,False
+Relationship_AccessPermission_127,AccessPermission,Serenity,Dolphin Bay,Entity,Entity,True,,regular access,2040-10-03 10:23:00,,,,,,,,,,,,,,False,Dolphin Bay|Serenity,False,False
+Relationship_AccessPermission_128,AccessPermission,Serenity,Paackland Harbor,Entity,Entity,True,,regular access,,,,,,,,,,,,,,,False,Paackland Harbor|Serenity,False,False
+Relationship_AccessPermission_129,AccessPermission,Recreational Fishing Boats,Restricted Zone,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Recreational Fishing Boats|Restricted Zone,False,False
+Relationship_AccessPermission_148,AccessPermission,Mako,Protected areas,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Mako|Protected areas,False,False
+Relationship_AccessPermission_156,AccessPermission,Mrs. Money,Nemo Reef,Entity,Entity,True,,special access,2040-10-04 21:00:00,,,,,,,,,,,,,,False,Mrs. Money|Nemo Reef,False,False
+Relationship_AccessPermission_161,AccessPermission,Davis,Remora,Entity,Entity,False,,restricted,,,,,,,,,,,,,,,False,Davis|Remora,False,False
+Relationship_AccessPermission_163,AccessPermission,Remora,Paackland Harbor,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Paackland Harbor|Remora,False,False
+Relationship_AccessPermission_181,AccessPermission,Nadia Conti,Nemo Reef,Entity,Entity,True,,special access,,,,,,,,,,,,,,,False,Nadia Conti|Nemo Reef,False,False
+Relationship_AccessPermission_190,AccessPermission,Mako,Himark Harbor,Entity,Entity,True,,special access,,,,,,,,,,,,,,,False,Himark Harbor|Mako,False,False
+Relationship_AccessPermission_192,AccessPermission,Mako,Remora,Entity,Entity,False,,regular access,,,,,,,,,,,,,,,False,Mako|Remora,False,False
+Relationship_AccessPermission_196,AccessPermission,Oceanus City Council,Nemo Reef,Entity,Entity,True,,special access,2040-10-06 00:00:00,,,,,,,,,,,,,,False,Nemo Reef|Oceanus City Council,False,False
+Relationship_AccessPermission_214,AccessPermission,V. Miesel Shipping,Nemo Reef,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Nemo Reef|V. Miesel Shipping,False,False
+Relationship_AccessPermission_232,AccessPermission,Recreational Fishing Boats,Nemo Reef,Entity,Entity,True,,special access,,,,,,,,,,,,,,,False,Nemo Reef|Recreational Fishing Boats,False,False
+Relationship_AccessPermission_233,AccessPermission,Mako,Paackland Harbor,Entity,Entity,True,,special access,,,,,,,,,,,,,,,False,Mako|Paackland Harbor,False,False
+Relationship_AccessPermission_238,AccessPermission,Serenity,Himark Harbor,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Himark Harbor|Serenity,False,False
+Relationship_AccessPermission_243,AccessPermission,Mako,Nemo Reef,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Mako|Nemo Reef,False,False
+Relationship_AccessPermission_244,AccessPermission,Neptune,Himark Harbor,Entity,Entity,True,,restricted,2040-10-07 00:00:00,,,,,,,,,,,,,,False,Himark Harbor|Neptune,False,False
+Relationship_AccessPermission_259,AccessPermission,Mako,Neptune,Entity,Entity,False,,special access,2040-10-07 00:00:00,,,,,,,,,,,,,,False,Mako|Neptune,False,False
+Relationship_AccessPermission_259,AccessPermission,Mako,Remora,Entity,Entity,False,,special access,2040-10-07 00:00:00,,,,,,,,,,,,,,False,Mako|Remora,True,False
+Relationship_AccessPermission_259,AccessPermission,Neptune,Remora,Entity,Entity,False,,special access,2040-10-07 00:00:00,,,,,,,,,,,,,,False,Neptune|Remora,False,False
+Relationship_AccessPermission_262,AccessPermission,V. Miesel Shipping,South Dock,Entity,Entity,True,,special access,2040-10-07 06:00:00,,,,,,,,,,,,,,False,South Dock|V. Miesel Shipping,False,False
+Relationship_AccessPermission_266,AccessPermission,Green Guardians,Nemo Reef,Entity,Entity,True,,special access,2040-10-06 13:07:00,,,,,,,,,,,,,,False,Green Guardians|Nemo Reef,False,False
+Relationship_AccessPermission_281,AccessPermission,Neptune,Eastern reefs,Entity,Entity,True,,special access,2040-10-08 05:00:00,,,,,,,,,,,,,,False,Eastern reefs|Neptune,False,False
+Relationship_AccessPermission_303,AccessPermission,Small Fry,Nemo Reef,Entity,Entity,True,,special access,2040-10-07 05:30:00,,,,,,,,,,,,,,False,Nemo Reef|Small Fry,False,False
+Relationship_AccessPermission_304,AccessPermission,Small Fry,Route C,Entity,Entity,True,,,2040-10-07 05:30:00,,,,,,,,,,,,,,False,Route C|Small Fry,False,False
+Relationship_AccessPermission_306,AccessPermission,V. Miesel Shipping,Route C,Entity,Entity,True,,special access,2040-10-07 06:00:00,,,,,,,,,,,,,,False,Route C|V. Miesel Shipping,False,False
+Relationship_AccessPermission_313,AccessPermission,Liam Thorne,Nemo Reef,Entity,Entity,True,,restricted,2040-10-09 22:00:00,2040-10-15 23:59:59,,,,,,,,,,,,,False,Liam Thorne|Nemo Reef,False,False
+Relationship_AccessPermission_328,AccessPermission,Neptune,Restricted Zone,Entity,Entity,True,,special access,,,,,,,,,,,,,,,False,Neptune|Restricted Zone,False,False
+Relationship_AccessPermission_332,AccessPermission,Mako,Eastern reefs,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Eastern reefs|Mako,False,False
+Relationship_AccessPermission_338,AccessPermission,Remora,Nemo Reef,Entity,Entity,True,,special access,2040-10-09 00:00:00,,,,,,,,,,,,,,False,Nemo Reef|Remora,False,False
+Relationship_AccessPermission_349,AccessPermission,Marlin,Himark Harbor,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Himark Harbor|Marlin,False,False
+Relationship_AccessPermission_370,AccessPermission,Reef Guardian,Paackland Harbor,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Paackland Harbor|Reef Guardian,False,False
+Relationship_AccessPermission_382,AccessPermission,Himark Harbor,Nemo Reef,Entity,Entity,True,,special access,2040-10-09 11:22:00,,,,,,,,,,,,,,False,Himark Harbor|Nemo Reef,False,False
+Relationship_AccessPermission_392,AccessPermission,Northern Light,Himark Harbor,Entity,Entity,True,,regular access,,,,,,,,,,,,,,,False,Himark Harbor|Northern Light,False,False
+Relationship_AccessPermission_393,AccessPermission,Northern Light,Nemo Reef,Entity,Entity,True,,regular access,,,,,,,,,,,,,,,False,Nemo Reef|Northern Light,False,False
+Relationship_AccessPermission_397,AccessPermission,Tourists,Nemo Reef,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Nemo Reef|Tourists,False,False
+Relationship_AccessPermission_405,AccessPermission,Neptune,Nemo Reef,Entity,Entity,True,,,2040-10-11 06:00:00,2040-10-14 06:00:00,,,,,,,,,,,,,False,Nemo Reef|Neptune,False,False
+Relationship_AccessPermission_415,AccessPermission,Samantha Blake,Nemo Reef,Entity,Entity,True,,,,2040-10-11 06:00:00,,,,,,,,,,,,,False,Nemo Reef|Samantha Blake,False,False
+Relationship_AccessPermission_421,AccessPermission,Sentinel,Nemo Reef,Entity,Entity,True,,restricted,2040-10-11 06:00:00,2040-10-14 06:00:00,,,,,,,,,,,,,False,Nemo Reef|Sentinel,False,False
+Relationship_AccessPermission_425,AccessPermission,Mrs. Money,The Intern,Entity,Entity,False,,restricted,,,,,,,,,,,,,,,False,Mrs. Money|The Intern,False,False
+Relationship_AccessPermission_441,AccessPermission,EcoVigil,Paackland Harbor,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,EcoVigil|Paackland Harbor,False,False
+Relationship_AccessPermission_444,AccessPermission,EcoVigil,Nemo Reef,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,EcoVigil|Nemo Reef,False,False
+Relationship_AccessPermission_455,AccessPermission,EcoVigil,Northern quadrant,Entity,Entity,True,,,,,,,,,,,,,,,,,False,EcoVigil|Northern quadrant,False,False
+Relationship_AccessPermission_477,AccessPermission,Conservation Vessels,Restricted areas,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Conservation Vessels|Restricted areas,False,False
+Relationship_AccessPermission_479,AccessPermission,Green Guardians,Restricted areas,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Green Guardians|Restricted areas,False,False
+Relationship_AccessPermission_489,AccessPermission,Seawatch,Nemo Reef,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Nemo Reef|Seawatch,False,False
+Relationship_AccessPermission_497,AccessPermission,Reef Guardian,Nemo Reef,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Nemo Reef|Reef Guardian,False,False
+Relationship_AccessPermission_502,AccessPermission,Osprey,Nemo Reef,Entity,Entity,True,,restricted,,,,,,,,,,,,,,,False,Nemo Reef|Osprey,False,False
+Relationship_AccessPermission_511,AccessPermission,Davis,Restricted Zone,Entity,Entity,True,,special access,,,,,,,,,,,,,,,False,Davis|Restricted Zone,False,False
+Relationship_AccessPermission_512,AccessPermission,Mako,Restricted Zone,Entity,Entity,True,,special access,,,,,,,,,,,,,,,False,Mako|Restricted Zone,False,False
+Relationship_AccessPermission_553,AccessPermission,Remora,South Dock,Entity,Entity,True,,special access,2040-10-13 06:00:00,,,,,,,,,,,,,,False,Remora|South Dock,False,False
+Relationship_AccessPermission_560,AccessPermission,Knowles,Haacklee Harbor,Entity,Entity,True,,special access,2040-10-13 22:00:00,,,,,,,,,,,,,,False,Haacklee Harbor|Knowles,False,False
+Relationship_AccessPermission_562,AccessPermission,Knowles,Nemo Reef,Entity,Entity,True,,special access,2040-10-13 22:00:00,,,,,,,,,,,,,,False,Knowles|Nemo Reef,False,False
+Relationship_AccessPermission_564,AccessPermission,Davis,Berth 14,Entity,Entity,True,,restricted,2040-10-13 04:00:00,,,,,,,,,,,,,,False,Berth 14|Davis,False,False
+Relationship_AccessPermission_569,AccessPermission,Sentinel,Paackland Harbor,Entity,Entity,True,,special access,,,,,,,,,,,,,,,False,Paackland Harbor|Sentinel,False,False
+Relationship_AccessPermission_585,AccessPermission,EcoVigil,Restricted Zone,Entity,Entity,True,,restricted,2040-10-13 13:20:00,2040-10-15 13:20:00,,,,,,,,,,,,,False,EcoVigil|Restricted Zone,False,False
+Relationship_AccessPermission_588,AccessPermission,EcoVigil,Western quadrant,Entity,Entity,True,,restricted,2040-10-13 13:23:00,2040-10-15 13:23:00,,,,,,,,,,,,,False,EcoVigil|Western quadrant,False,False
+Relationship_AccessPermission_591,AccessPermission,Remora,Coral Point,Entity,Entity,True,,special access,2040-10-15 05:30:00,,,,,,,,,,,,,,False,Coral Point|Remora,False,False
+Relationship_AccessPermission_594,AccessPermission,Sailor Shifts Team,South Dock,Entity,Entity,True,,restricted,2040-10-14 08:34:00,,,,,,,,,,,,,,False,Sailor Shifts Team|South Dock,False,False
+Relationship_AccessPermission_615,AccessPermission,EcoVigil,Reef Guardian,Entity,Entity,False,,restricted,,,,,,,,,,,,,,,False,EcoVigil|Reef Guardian,False,False
+Relationship_Reports_18,Reports,Paackland Harbor,Oceanus City Council,Entity,Entity,True,,,,,environmental report,2040-10-01 10:48:00,,,,,,,,,,,False,Oceanus City Council|Paackland Harbor,False,False
+Relationship_Reports_38,Reports,Horizon,Green Guardians,Entity,Entity,True,,,,,environmental report,2040-10-01 12:43:00,,,,,,,,,,,False,Green Guardians|Horizon,False,False
+Relationship_Reports_41,Reports,The Intern,Mrs. Money,Entity,Entity,True,,,,,environmental report,2040-10-02 08:13:00,,,,,,,,,,,False,Mrs. Money|The Intern,False,False
+Relationship_Reports_46,Reports,Marlin,Oceanus City Council,Entity,Entity,True,,,,,official logs,2040-10-02 08:56:00,,,,,,,,,,,False,Marlin|Oceanus City Council,False,False
+Relationship_Reports_51,Reports,EcoVigil,Green Guardians,Entity,Entity,True,,,,,environmental report,2040-10-02 09:59:00,,,,,,,,,,,False,EcoVigil|Green Guardians,False,False
+Relationship_Reports_69,Reports,Miranda Jordan,Sailor Shifts Team,Entity,Entity,True,,,,,,2040-10-02 12:16:00,,,,,,,,,,,False,Miranda Jordan|Sailor Shifts Team,False,False
+Relationship_Reports_73,Reports,Miranda Jordan,Rodriguez,Entity,Entity,True,,,,,environmental report,2040-10-02 12:22:00,,,,,,,,,,,False,Miranda Jordan|Rodriguez,False,False
+Relationship_Reports_170,Reports,Mako,Oceanus City Council,Entity,Entity,True,,,,,official logs,2040-10-04 13:19:00,,,,,,,,,,,False,Mako|Oceanus City Council,False,False
+Relationship_Reports_205,Reports,Miranda Jordan,V. Miesel Shipping,Entity,Entity,True,,,,,data transmission,2040-10-05 10:30:00,,,,,,,,,,,False,Miranda Jordan|V. Miesel Shipping,False,False
+Relationship_Reports_218,Reports,Clepper Jensen,Oceanus City Council,Entity,Entity,True,,,,,,2040-10-05 10:50:00,,,,,,,,,,,False,Clepper Jensen|Oceanus City Council,False,False
+Relationship_Reports_288,Reports,Miranda Jordan,Green Guardians,Entity,Entity,True,,,,,,2040-10-07 10:28:00,,,,,,,,,,,False,Green Guardians|Miranda Jordan,False,False
+Relationship_Reports_344,Reports,Reef Guardian,Green Guardians,Entity,Entity,True,,,,,data transmission,2040-10-08 11:11:00,,,,,,,,,,,False,Green Guardians|Reef Guardian,False,False
+Relationship_Reports_355,Reports,The Lookout,Green Guardians,Entity,Entity,True,,,,,environmental report,2040-10-08 11:33:00,,,,,,,,,,,False,Green Guardians|The Lookout,False,False
+Relationship_Reports_408,Reports,Sentinel,Oceanus City Council,Entity,Entity,True,,,,,environmental report,,,,,,,,,,,,False,Oceanus City Council|Sentinel,False,False
+Relationship_Reports_447,Reports,EcoVigil,Oceanus City Council,Entity,Entity,True,,,,,data transmission,2040-10-11 09:04:00,,,,,,,,,,,False,EcoVigil|Oceanus City Council,False,False
+Relationship_Reports_496,Reports,The Middleman,Boss,Entity,Entity,True,,,,,data transmission,,,,,,,,,,,,False,Boss|The Middleman,False,False
+Relationship_Reports_513,Reports,Neptune,V. Miesel Shipping,Entity,Entity,True,,,,,data transmission,2040-10-12 09:53:00,,,,,,,,,,,False,Neptune|V. Miesel Shipping,False,False
+Relationship_Reports_526,Reports,Reef Guardian,Oceanus City Council,Entity,Entity,True,,,,,environmental report,2040-10-12 10:59:00,,,,,,,,,,,False,Oceanus City Council|Reef Guardian,False,False
+Relationship_Reports_529,Reports,Green Guardians,Oceanus City Council,Entity,Entity,True,,,,,data transmission,2040-10-12 11:02:00,,,,,,,,,,,False,Green Guardians|Oceanus City Council,False,False
+Relationship_Reports_537,Reports,Small Fry,V. Miesel Shipping,Entity,Entity,True,,,,,,2040-10-12 11:11:00,,,,,,,,,,,False,Small Fry|V. Miesel Shipping,False,False
+Relationship_Reports_572,Reports,Sentinel,Green Guardians,Entity,Entity,True,,,,,environmental report,2040-10-13 12:31:00,,,,,,,,,,,False,Green Guardians|Sentinel,False,False
+Relationship_Reports_587,Reports,Liam Thorne,Oceanus City Council,Entity,Entity,True,,,,,,2040-10-13 22:00:00,,,,,,,,,,,False,Liam Thorne|Oceanus City Council,False,False
+Relationship_Reports_603,Reports,Remora,V. Miesel Shipping,Entity,Entity,True,,,,,data transmission,2040-10-14 09:04:00,,,,,,,,,,,False,Remora|V. Miesel Shipping,False,False
+Relationship_Reports_604,Reports,EcoVigil,Horizon,Entity,Entity,True,,,,,data transmission,2040-10-14 09:28:00,,,,,,,,,,,False,EcoVigil|Horizon,False,False
+Relationship_Reports_622,Reports,Mako,Boss,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Boss|Mako,False,False
+Relationship_Jurisdiction_19,Jurisdiction,Nemo Reef,Protected areas,Entity,Entity,False,,,,,,,Harbor,,,,,,,,harbor,harbor,False,Nemo Reef|Protected areas,False,False
+Relationship_Jurisdiction_21,Jurisdiction,Oceanus City Council,Protected areas,Entity,Entity,True,,,,,,,conservation,oversight,,,,,,,conservation,conservation/protected area,False,Oceanus City Council|Protected areas,False,False
+Relationship_Jurisdiction_29,Jurisdiction,Green Guardians,Protected areas,Entity,Entity,True,,,,,,,marine protected area,,,,,,,,marine protected area,conservation/protected area,False,Green Guardians|Protected areas,False,False
+Relationship_Jurisdiction_131,Jurisdiction,Green Guardians,Nemo Reef,Entity,Entity,True,,,,,,,regulatory enforcement,primary,,,,,,,regulatory enforcement,regulatory,False,Green Guardians|Nemo Reef,False,False
+Relationship_Jurisdiction_162,Jurisdiction,Paackland Harbor,Protected areas,Entity,Entity,True,,,,,,,Paackland Harbor,oversight,,,,,,,paackland harbor,harbor,False,Paackland Harbor|Protected areas,False,False
+Relationship_Jurisdiction_390,Jurisdiction,Oceanus City Council,Himark Harbor,Entity,Entity,True,,,,,,,city council,primary,,,,,,,city council,city council,False,Himark Harbor|Oceanus City Council,False,False
+Relationship_Jurisdiction_446,Jurisdiction,Oceanus City Council,Nemo Reef,Entity,Entity,True,,,,,,,environmental,oversight,,,,,,,environmental,conservation/protected area,False,Nemo Reef|Oceanus City Council,False,False
+Relationship_Jurisdiction_454,Jurisdiction,Oceanus City Council,Northern quadrant,Entity,Entity,True,,,,,,,Reef,,,,,,,,reef,conservation/protected area,False,Northern quadrant|Oceanus City Council,False,False
+Relationship_Jurisdiction_575,Jurisdiction,Paackland Harbor,Nemo Reef,Entity,Entity,True,,,,,,,special clearance,,,,,,,,special clearance,regulatory,False,Nemo Reef|Paackland Harbor,False,False
+Relationship_Jurisdiction_583,Jurisdiction,Oceanus City Council,Paackland Harbor,Entity,Entity,True,,,,,,,City Council,primary,,,,,,,city council,city council,False,Oceanus City Council|Paackland Harbor,False,False
+Relationship_Jurisdiction_586,Jurisdiction,Oceanus City Council,Restricted Zone,Entity,Entity,True,,,,,,,City Council,primary,,,,,,,city council,city council,False,Oceanus City Council|Restricted Zone,False,False
+Relationship_Jurisdiction_611,Jurisdiction,Port Security,Nemo Reef,Entity,Entity,True,,,,,,,conservation monitoring,,,,,,,,conservation monitoring,conservation/protected area,False,Nemo Reef|Port Security,False,False
+Relationship_Jurisdiction_613,Jurisdiction,Reef Guardian,Nemo Reef,Entity,Entity,True,,,,,,,protected marine areas,,,,,,,,protected marine areas,conservation/protected area,False,Nemo Reef|Reef Guardian,False,False
+Relationship_Coordinates_20,Coordinates,Oceanus City Council,Paackland Harbor,Entity,Entity,True,,,2040-10-01 10:51:00,,,,,,conservation patrols,,conservation patrols,monitoring,,,,,False,Oceanus City Council|Paackland Harbor,False,False
+Relationship_Coordinates_24,Coordinates,Liam Thorne,Oceanus City Council,Entity,Entity,True,,,2040-10-01 10:56:00,,,,,,harbor masters,,harbor masters,logistics,,,,,False,Liam Thorne|Oceanus City Council,False,False
+Relationship_Coordinates_27,Coordinates,Oceanus City Council,Reef Guardian,Entity,Entity,True,,,2040-10-01 11:01:00,,,,,,monitoring patrol increase,,monitoring patrol increase,monitoring,,,,,False,Oceanus City Council|Reef Guardian,False,False
+Relationship_Coordinates_30,Coordinates,Samantha Blake,Sailor Shifts Team,Entity,Entity,True,,,,,,,,,event coordination,,event coordination,event/tourism,,,,,False,Sailor Shifts Team|Samantha Blake,False,False
+Relationship_Coordinates_33,Coordinates,Horizon,Sentinel,Entity,Entity,True,,,2040-10-01 12:37:00,,,,,,patrol,,patrol,monitoring,,,,,False,Horizon|Sentinel,False,False
+Relationship_Coordinates_35,Coordinates,Green Guardians,Sentinel,Entity,Entity,True,,,2040-10-01 12:39:00,,,,,,monitoring,,monitoring,monitoring,,,,,False,Green Guardians|Sentinel,False,False
+Relationship_Coordinates_37,Coordinates,Green Guardians,Horizon,Entity,Entity,False,,,2040-10-01 12:43:00,,,,,,reporting,,reporting,meeting/communication,,,,,False,Green Guardians|Horizon,False,False
+Relationship_Coordinates_39,Coordinates,Horizon,Sentinel,Entity,Entity,False,,,2040-10-01 12:44:00,,,,,,patrol schedule,,patrol schedule,monitoring,,,,,False,Horizon|Sentinel,True,False
+Relationship_Coordinates_43,Coordinates,Haacklee Harbor,Mako,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Haacklee Harbor|Mako,False,False
+Relationship_Coordinates_53,Coordinates,Green Guardians,EcoVigil,Entity,Entity,True,,,,,,,,,monitoring station establishment,,monitoring station establishment,monitoring,,,,,False,EcoVigil|Green Guardians,False,False
+Relationship_Coordinates_54,Coordinates,Horizon,EcoVigil,Entity,Entity,True,,,2040-10-03 08:00:00,,,,,,joint monitoring station,,joint monitoring station,monitoring,,,,,False,EcoVigil|Horizon,False,False
+Relationship_Coordinates_77,Coordinates,Glitters Team,Small Fry,Entity,Entity,True,,,2040-10-02 13:23:00,,,,,,meeting,,meeting,meeting/communication,,,,,False,Glitters Team|Small Fry,False,False
+Relationship_Coordinates_116,Coordinates,Green Guardians,Horizon,Entity,Entity,True,,,2040-10-03 10:05:00,,,,,,repositioning,,repositioning,logistics,,,,,False,Green Guardians|Horizon,True,False
+Relationship_Coordinates_120,Coordinates,Oceanus City Council,Mariner's Dream,Entity,Entity,True,,,2040-10-03 10:16:00,,,,,,enforcement protocols,,enforcement protocols,security,,,,,False,Mariner's Dream|Oceanus City Council,False,False
+Relationship_Coordinates_172,Coordinates,Liam Thorne,Paackland Harbor,Entity,Entity,True,,,2040-10-04 13:32:00,,,,,,environmental assessment,,environmental assessment,monitoring,,,,,False,Liam Thorne|Paackland Harbor,False,False
+Relationship_Coordinates_185,Coordinates,Oceanus City Council,Mako,Entity,Entity,True,,,,,,,,,reporting,,reporting,meeting/communication,,,,,False,Mako|Oceanus City Council,False,False
+Relationship_Coordinates_201,Coordinates,Green Guardians,Oceanus City Council,Entity,Entity,True,,,2040-10-06 00:00:00,,,,,,port operations,,port operations,logistics,,,,,False,Green Guardians|Oceanus City Council,False,False
+Relationship_Coordinates_226,Coordinates,Samantha Blake,Mako,Entity,Entity,True,,,2040-10-13 00:00:00,,,,,,event,,event,event/tourism,,,,,False,Mako|Samantha Blake,False,False
+Relationship_Coordinates_231,Coordinates,Horizon,Sentinel,Entity,Entity,False,,,2040-10-06 09:50:00,,,,,,monitoring,,monitoring,monitoring,,,,,False,Horizon|Sentinel,True,False
+Relationship_Coordinates_236,Coordinates,Glitters Team,Boss,Entity,Entity,True,,,2040-10-07 00:00:00,,,,,,staffing,,staffing,logistics,,,,,False,Boss|Glitters Team,False,False
+Relationship_Coordinates_247,Coordinates,Neptune,Serenity,Entity,Entity,False,,,2040-10-07 00:00:00,,,,,,operation,,operation,operation,,,,,False,Neptune|Serenity,False,False
+Relationship_Coordinates_248,Coordinates,Mako,Serenity,Entity,Entity,True,,,,,,,,,shipping,,shipping,logistics,,,,,False,Mako|Serenity,False,False
+Relationship_Coordinates_251,Coordinates,EcoVigil,Horizon,Entity,Entity,True,,,2040-10-07 00:00:00,,,,,,water sampling and monitoring,,water sampling and monitoring,monitoring,,,,,False,EcoVigil|Horizon,True,False
+Relationship_Coordinates_252,Coordinates,Sentinel,Mako,Entity,Entity,True,,,,,,,,,transponder malfunction,,transponder malfunction,logistics,,,,,False,Mako|Sentinel,False,False
+Relationship_Coordinates_253,Coordinates,Mako,Neptune,Entity,Entity,False,,,,,,,,,operation coordination,,operation coordination,operation,,,,,False,Mako|Neptune,False,False
+Relationship_Coordinates_253,Coordinates,Mako,Serenity,Entity,Entity,False,,,,,,,,,operation coordination,,operation coordination,operation,,,,,False,Mako|Serenity,True,False
+Relationship_Coordinates_253,Coordinates,Neptune,Serenity,Entity,Entity,False,,,,,,,,,operation coordination,,operation coordination,operation,,,,,False,Neptune|Serenity,True,False
+Relationship_Coordinates_269,Coordinates,Sentinel,Horizon,Entity,Entity,True,,,2040-10-06 13:13:00,,,,,,surveillance,,surveillance,monitoring,,,,,False,Horizon|Sentinel,True,False
+Relationship_Coordinates_274,Coordinates,The Intern,Mrs. Money,Entity,Entity,True,,,,,,,,,meeting,,meeting,meeting/communication,,,,,False,Mrs. Money|The Intern,False,False
+Relationship_Coordinates_279,Coordinates,Mako,Remora,Entity,Entity,False,,,2040-10-08 05:00:00,,,,,,meeting to establish payment protocols,,meeting to establish payment protocols,financial,,,,,False,Mako|Remora,False,False
+Relationship_Coordinates_280,Coordinates,Mako,Remora,Entity,Entity,False,,,2040-10-08 05:00:00,,,,,,payment protocols,,payment protocols,financial,,,,,False,Mako|Remora,True,False
+Relationship_Coordinates_289,Coordinates,Green Guardians,City Officials,Entity,Entity,True,,,2040-10-07 10:28:00,,,,,,communication,,communication,meeting/communication,,,,,False,City Officials|Green Guardians,False,False
+Relationship_Coordinates_292,Coordinates,Reef Guardian,Sentinel,Entity,Entity,True,,,2040-10-07 10:33:00,,,,,,surveillance,,surveillance,monitoring,,,,,False,Reef Guardian|Sentinel,False,False
+Relationship_Coordinates_297,Coordinates,Remora,Mako,Entity,Entity,True,,,2040-10-08 05:30:00,,,,,,conservation tourism operation,,conservation tourism operation,event/tourism,,,,,False,Mako|Remora,True,False
+Relationship_Coordinates_298,Coordinates,Neptune,Mako,Entity,Entity,True,,,2040-10-08 06:00:00,,,,,,Equipment transfer,,equipment transfer,logistics,,,,,False,Mako|Neptune,True,False
+Relationship_Coordinates_302,Coordinates,Sailor Shifts Team,Remora,Entity,Entity,True,,,2040-10-08 05:30:00,,,,,,operation,,operation,operation,,,,,False,Remora|Sailor Shifts Team,False,False
+Relationship_Coordinates_305,Coordinates,Neptune,Remora,Entity,Entity,True,,,2040-10-08 06:00:00,,,,,,equipment transfer,,equipment transfer,logistics,,,,,False,Neptune|Remora,False,False
+Relationship_Coordinates_307,Coordinates,Mako,Remora,Entity,Entity,False,,,2040-10-08 06:00:00,,,,,,equipment transfer,,equipment transfer,logistics,,,,,False,Mako|Remora,True,False
+Relationship_Coordinates_334,Coordinates,Remora,Neptune,Entity,Entity,True,,,2040-10-09 06:00:00,,,,,,technical crew support,,technical crew support,logistics,,,,,False,Neptune|Remora,True,False
+Relationship_Coordinates_336,Coordinates,Mako,Neptune,Entity,Entity,True,,,2040-10-09 00:00:00,,,,,,sensor installation,,sensor installation,monitoring,,,,,False,Mako|Neptune,True,False
+Relationship_Coordinates_343,Coordinates,Horizon,Sentinel,Entity,Entity,False,,,2040-10-08 11:08:00,,,,,,environmental protection operation,,environmental protection operation,monitoring,,,,,False,Horizon|Sentinel,True,False
+Relationship_Coordinates_378,Coordinates,Reef Guardian,EcoVigil,Entity,Entity,True,,,,,,,,,environmental monitoring,,environmental monitoring,monitoring,,,,,False,EcoVigil|Reef Guardian,False,False
+Relationship_Coordinates_380,Coordinates,Reef Guardian,Marlin,Entity,Entity,True,,,,,,,,,surveillance,,surveillance,monitoring,,,,,False,Marlin|Reef Guardian,False,False
+Relationship_Coordinates_387,Coordinates,Mako,Remora,Entity,Entity,True,,,2040-10-10 06:00:00,,,,,,crew operations,,crew operations,logistics,,,,,False,Mako|Remora,True,False
+Relationship_Coordinates_401,Coordinates,EcoVigil,Reef Guardian,Entity,Entity,True,,,2040-10-10 09:32:00,,,,,,monitoring,,monitoring,monitoring,,,,,False,EcoVigil|Reef Guardian,True,False
+Relationship_Coordinates_411,Coordinates,Seawatch,Reef Guardian,Entity,Entity,True,,,,,,,,,surveillance,,surveillance,monitoring,,,,,False,Reef Guardian|Seawatch,False,False
+Relationship_Coordinates_413,Coordinates,Horizon,Reef Guardian,Entity,Entity,True,,,,,,,,,night watch,,night watch,monitoring,,,,,False,Horizon|Reef Guardian,False,False
+Relationship_Coordinates_418,Coordinates,Defender,Reef Guardian,Entity,Entity,True,,,,,,,,,patrol coordination,,patrol coordination,monitoring,,,,,False,Defender|Reef Guardian,False,False
+Relationship_Coordinates_423,Coordinates,Liam Thorne,Sentinel,Entity,Entity,True,,,2040-10-11 10:00:00,,,,,,harbor masters regarding Nemo Reef closure enforcement,,harbor masters regarding nemo reef closure enforcement,security,,,,,False,Liam Thorne|Sentinel,False,False
+Relationship_Coordinates_428,Coordinates,Elise,Nadia Conti,Entity,Entity,True,,,2040-10-10 05:00:00,,,,,,operation,,operation,operation,,,,,False,Elise|Nadia Conti,False,False
+Relationship_Coordinates_437,Coordinates,The Middleman,Sentinel,Entity,Entity,True,,,2040-10-11 05:00:00,,,,,,meeting,,meeting,meeting/communication,,,,,False,Sentinel|The Middleman,False,False
+Relationship_Coordinates_445,Coordinates,Liam Thorne,EcoVigil,Entity,Entity,True,,,,,,,,,scientific documentation access,,scientific documentation access,monitoring,,,,,False,EcoVigil|Liam Thorne,False,False
+Relationship_Coordinates_448,Coordinates,Oceanus City Council,EcoVigil,Entity,Entity,True,,,2040-10-11 00:00:00,,,,,,meeting,,meeting,meeting/communication,,,,,False,EcoVigil|Oceanus City Council,False,False
+Relationship_Coordinates_471,Coordinates,V. Miesel Shipping,Neptune,Entity,Entity,True,,,2040-10-11 10:04:00,,,,,,Security deployment and equipment testing,,security deployment and equipment testing,security,,,,,False,Neptune|V. Miesel Shipping,False,False
+Relationship_Coordinates_473,Coordinates,V. Miesel Shipping,Remora,Entity,Entity,True,,,2040-10-11 10:04:00,,,,,,Security deployment,,security deployment,security,,,,,False,Remora|V. Miesel Shipping,False,False
+Relationship_Coordinates_492,Coordinates,Green Guardians,Seawatch,Entity,Entity,True,,,2040-10-11 10:53:00,,,,,,surveillance,,surveillance,monitoring,,,,,False,Green Guardians|Seawatch,False,False
+Relationship_Coordinates_493,Coordinates,Nadia Conti,EcoVigil,Entity,Entity,True,,,2040-10-12 21:00:00,,,,,,operations relocation,,operations relocation,logistics,,,,,False,EcoVigil|Nadia Conti,False,False
+Relationship_Coordinates_499,Coordinates,V. Miesel Shipping,Mako,Entity,Entity,True,,,2040-10-13 06:00:00,,,,,,security team arrival,,security team arrival,security,,,,,False,Mako|V. Miesel Shipping,False,False
+Relationship_Coordinates_503,Coordinates,Mako,Remora,Entity,Entity,False,,,2040-10-13 06:00:00,,,,,,security team arrival,,security team arrival,security,,,,,False,Mako|Remora,True,False
+Relationship_Coordinates_509,Coordinates,Osprey,Mako,Entity,Entity,True,,,2040-10-13 08:00:00,,,,,,tour,,tour,event/tourism,,,,,False,Mako|Osprey,False,False
+Relationship_Coordinates_516,Coordinates,Remora,V. Miesel Shipping,Entity,Entity,True,,,2040-10-12 06:00:00,,,,,,harbor closure,,harbor closure,logistics,,,,,False,Remora|V. Miesel Shipping,True,False
+Relationship_Coordinates_518,Coordinates,Neptune,V. Miesel Shipping,Entity,Entity,True,,,2040-10-12 06:00:00,,,,,,operation logistics,,operation logistics,operation,,,,,False,Neptune|V. Miesel Shipping,True,False
+Relationship_Coordinates_548,Coordinates,Reef Guardian,Seawatch,Entity,Entity,True,,,2040-10-12 12:59:00,,,,,,surveillance,,surveillance,monitoring,,,,,False,Reef Guardian|Seawatch,True,False
+Relationship_Coordinates_550,Coordinates,The Accountant,V. Miesel Shipping,Entity,Entity,True,,,2040-10-14 10:00:00,,,,,,meeting,,meeting,meeting/communication,,,,,False,The Accountant|V. Miesel Shipping,False,False
+Relationship_Coordinates_555,Coordinates,Reef Guardian,Horizon,Entity,Entity,True,,,2040-10-13 09:07:00,,,,,,triangulate signals,,triangulate signals,monitoring,,,,,False,Horizon|Reef Guardian,True,False
+Relationship_Coordinates_556,Coordinates,Horizon,Seawatch,Entity,Entity,True,,,2040-10-13 09:08:00,,,,,,triangulation,,triangulation,monitoring,,,,,False,Horizon|Seawatch,False,False
+Relationship_Coordinates_565,Coordinates,Mako,Sentinel,Entity,Entity,True,,,2040-10-13 12:17:00,,,,,,observation,,observation,monitoring,,,,,False,Mako|Sentinel,True,False
+Relationship_Coordinates_573,Coordinates,Horizon,Sentinel,Entity,Entity,False,,,2040-10-13 12:34:00,,,,,,water sample collection and vessel movement documentation,,water sample collection and vessel movement documentation,monitoring,,,,,False,Horizon|Sentinel,True,False
+Relationship_Coordinates_578,Coordinates,Reef Guardian,Mako,Entity,Entity,True,,,2040-10-13 12:41:00,,,,,,patrol,,patrol,monitoring,,,,,False,Mako|Reef Guardian,False,False
+Relationship_Coordinates_609,Coordinates,Green Guardians,Reef Guardian,Entity,Entity,True,,,2040-10-14 10:58:00,,,,,,environmental monitoring,,environmental monitoring,monitoring,,,,,False,Green Guardians|Reef Guardian,False,False
+Relationship_Coordinates_614,Coordinates,EcoVigil,Reef Guardian,Entity,Entity,False,,,2040-10-14 11:32:00,,,,,,documentation,,documentation,monitoring,,,,,False,EcoVigil|Reef Guardian,True,False
+Relationship_Coordinates_616,Coordinates,EcoVigil,Sentinel,Entity,Entity,True,,,2040-10-14 11:36:00,,,,,,surveillance,,surveillance,monitoring,,,,,False,EcoVigil|Sentinel,False,False
+Relationship_Coordinates_618,Coordinates,Small Fry,Remora,Entity,Entity,True,,,2040-10-14 02:00:00,,,,,,equipment transfer,,equipment transfer,logistics,,,,,False,Remora|Small Fry,False,False
+Relationship_Coordinates_621,Coordinates,Knowles,Mako,Entity,Entity,True,,,2040-10-14 12:17:00,,,,,,positioning,,positioning,logistics,,,,,False,Knowles|Mako,False,False
+Relationship_Coordinates_623,Coordinates,Himark Harbor,Neptune,Entity,Entity,True,,,,,,,,,Security protocols for Nemo Reef operation,,security protocols for nemo reef operation,security,,,,,False,Himark Harbor|Neptune,False,False
+Relationship_Coordinates_629,Coordinates,Mako,Knowles,Entity,Entity,True,,,2040-10-14 22:00:00,,,,,,equipment transfer,,equipment transfer,logistics,,,,,False,Knowles|Mako,True,False
+Relationship_Operates_36,Operates,Green Guardians,Horizon,Entity,Entity,True,,,,,,,,,,monitoring,,,monitoring,monitoring/research,,,False,Green Guardians|Horizon,False,False
+Relationship_Operates_58,Operates,Davis,Mako,Entity,Entity,True,,,,,,,,,,Sailor Shifts Team,,,sailor shifts team,tourism/filming,,,True,Davis|Mako,False,False
+Relationship_Operates_59,Operates,Sailor Shifts Team,Mako,Entity,Entity,True,,,,,,,,,,Sailor Shifts Team,,,sailor shifts team,tourism/filming,,,True,Mako|Sailor Shifts Team,False,False
+Relationship_Operates_65,Operates,Davis,Sailor Shifts Team,Entity,Entity,True,,,,,,,,,,Captain,,,captain,vessel operator,,,False,Davis|Sailor Shifts Team,False,False
+Relationship_Operates_75,Operates,Rodriguez,Mako,Entity,Entity,True,,,,,,,,,,captain,,,captain,vessel operator,,,False,Mako|Rodriguez,False,False
+Relationship_Operates_97,Operates,Sailor Shifts Team,Recreational Fishing Boats,Entity,Entity,True,,,,,,,,,,tourism,,,tourism,tourism/filming,,,False,Recreational Fishing Boats|Sailor Shifts Team,False,False
+Relationship_Operates_103,Operates,V. Miesel Shipping,Knowles,Entity,Entity,True,,,,,,,,,,shell company,,,shell company,front company,,,False,Knowles|V. Miesel Shipping,False,False
+Relationship_Operates_109,Operates,Knowles,V. Miesel Shipping,Entity,Entity,True,,,,,,,,,,rare earth extraction,,,rare earth extraction,extraction/construction,,,False,Knowles|V. Miesel Shipping,True,False
+Relationship_Operates_153,Operates,Boss,V. Miesel Shipping,Entity,Entity,True,,,,,,,,,,financial operations,,,financial operations,financial,,,False,Boss|V. Miesel Shipping,False,False
+Relationship_Operates_154,Operates,Mrs. Money,V. Miesel Shipping,Entity,Entity,True,,,,,,,,,,financial management,,,financial management,financial,,,False,Mrs. Money|V. Miesel Shipping,False,False
+Relationship_Operates_176,Operates,Green Guardians,Sentinel,Entity,Entity,True,,,,,,,,,,patrol,,,patrol,monitoring/research,,,False,Green Guardians|Sentinel,False,False
+Relationship_Operates_202,Operates,Oceanus City Council,V. Miesel Shipping,Entity,Entity,True,,,,,,,,,,equipment loading,,,equipment loading,extraction/construction,,,False,Oceanus City Council|V. Miesel Shipping,False,False
+Relationship_Operates_210,Operates,Boss,Nemo Reef,Entity,Entity,True,,,,,,,,,,financial,,,financial,financial,,,False,Boss|Nemo Reef,False,False
+Relationship_Operates_211,Operates,Mrs. Money,Nemo Reef,Entity,Entity,True,,,,,,,,,,financial management,,,financial management,financial,,,False,Mrs. Money|Nemo Reef,False,False
+Relationship_Operates_255,Operates,V. Miesel Shipping,Mako,Entity,Entity,True,,,2040-10-06 12:31:00,,,,,,,tourism activities,,,tourism activities,tourism/filming,,,False,Mako|V. Miesel Shipping,False,False
+Relationship_Operates_256,Operates,V. Miesel Shipping,Serenity,Entity,Entity,True,,,2040-10-06 12:31:00,,,,,,,tourism activities,,,tourism activities,tourism/filming,,,False,Serenity|V. Miesel Shipping,False,False
+Relationship_Operates_271,Operates,Green Guardians,Paackland Harbor,Entity,Entity,True,,,,,,,,,,Harbor Response,,,harbor response,other,,,True,Green Guardians|Paackland Harbor,False,False
+Relationship_Operates_283,Operates,Mrs. Money,Mako,Entity,Entity,True,,,2040-10-07 09:38:00,,,,,,,financial controller,,,financial controller,financial,,,False,Mako|Mrs. Money,False,False
+Relationship_Operates_327,Operates,Oceanus City Council,Neptune,Entity,Entity,True,,,,,,,,,,special marine research,,,special marine research,monitoring/research,,,False,Neptune|Oceanus City Council,False,False
+Relationship_Operates_351,Operates,Davis,Marlin,Entity,Entity,True,,,,,,,,,,vessel operator,,,vessel operator,vessel operator,,,False,Davis|Marlin,False,False
+Relationship_Operates_352,Operates,Davis,Rodriguez,Entity,Entity,False,,,,,,,,,,Mako,,,mako,other,,,True,Davis|Rodriguez,False,False
+Relationship_Operates_367,Operates,Green Guardians,Neptune,Entity,Entity,True,,,,,,,,,,supervising,,,supervising,management,,,False,Green Guardians|Neptune,False,False
+Relationship_Operates_439,Operates,Mrs. Money,The Intern,Entity,Entity,False,,,,,,,,,,Intern,,,intern,other,,,True,Mrs. Money|The Intern,False,False
+Relationship_Operates_459,Operates,Samantha Blake,Mako,Entity,Entity,True,,,,,,,,,,security personnel,,,security personnel,security,,,False,Mako|Samantha Blake,False,False
+Relationship_Operates_461,Operates,Mako,Neptune,Entity,Entity,False,,,,,,,,,,security,,,security,security,,,False,Mako|Neptune,False,False
+Relationship_Operates_463,Operates,Samantha Blake,Neptune,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Neptune|Samantha Blake,False,False
+Relationship_Operates_474,Operates,V. Miesel Shipping,Remora,Entity,Entity,True,,,2040-10-11 10:05:00,,,,,,,permit #CR-7844 operations,,,permit #cr-7844 operations,extraction/construction,,,False,Remora|V. Miesel Shipping,False,False
+Relationship_Operates_476,Operates,Rodriguez,Remora,Entity,Entity,True,,,,,,,,,,morale management,,,morale management,management,,,False,Remora|Rodriguez,False,False
+Relationship_Operates_505,Operates,Rodriguez,Neptune,Entity,Entity,True,,,,,,,,,,stabilization equipment testing,,,stabilization equipment testing,extraction/construction,,,False,Neptune|Rodriguez,False,False
+Relationship_Operates_506,Operates,Small Fry,Remora,Entity,Entity,True,,,2040-10-13 05:00:00,,,,,,,stabilization equipment operator,,,stabilization equipment operator,extraction/construction,,,False,Remora|Small Fry,False,False
+Relationship_Operates_514,Operates,V. Miesel Shipping,Neptune,Entity,Entity,True,,,,,,,,,,communication and security oversight,,,communication and security oversight,security,,,False,Neptune|V. Miesel Shipping,False,False
+Relationship_Operates_519,Operates,Neptune,Remora,Entity,Entity,False,,,,,,,,,,oversee crew reallocation,,,oversee crew reallocation,management,,,False,Neptune|Remora,False,False
+Relationship_Operates_521,Operates,Oceanus City Council,Reef Guardian,Entity,Entity,True,,,,,,,,,,environmental monitoring,,,environmental monitoring,monitoring/research,,,False,Oceanus City Council|Reef Guardian,False,False
+Relationship_Operates_538,Operates,Neptune,Remora,Entity,Entity,False,,,,,,,,,,Security team,,,security team,security,,,False,Neptune|Remora,True,False
+Relationship_Operates_543,Operates,Davis,Neptune,Entity,Entity,True,,,2040-10-13 06:00:00,,,,,,,,,,,,,,False,Davis|Neptune,False,False
+Relationship_Operates_546,Operates,Davis,Remora,Entity,Entity,True,,,2040-10-12 06:00:00,,,,,,,security,,,security,security,,,False,Davis|Remora,False,False
+Relationship_Operates_566,Operates,Green Guardians,Reef Guardian,Entity,Entity,True,,,,,,,,,,Reef Guardian,,,reef guardian,other,,,True,Green Guardians|Reef Guardian,False,False
+Relationship_Operates_592,Operates,Glitters Team,Remora,Entity,Entity,True,,,,,,,,,,underwater filming,,,underwater filming,tourism/filming,,,False,Glitters Team|Remora,False,False
+Relationship_Operates_593,Operates,Sailor Shifts Team,Remora,Entity,Entity,True,,,,,,,,,,Sailor Shifts,,,sailor shifts,tourism/filming,,,True,Remora|Sailor Shifts Team,False,False
+Relationship_Operates_602,Operates,Boss,Remora,Entity,Entity,True,,,,,,,,,,Operation manager,,,operation manager,management,,,False,Boss|Remora,False,False
+Relationship_Suspicious_71,Suspicious,Clepper Jensen,Sailor Shifts Team,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Clepper Jensen|Sailor Shifts Team,False,False
+Relationship_Suspicious_74,Suspicious,Miranda Jordan,Rodriguez,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Miranda Jordan|Rodriguez,False,False
+Relationship_Suspicious_106,Suspicious,Clepper Jensen,V. Miesel Shipping,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Clepper Jensen|V. Miesel Shipping,False,False
+Relationship_Suspicious_107,Suspicious,Clepper Jensen,Rodriguez,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Clepper Jensen|Rodriguez,False,False
+Relationship_Suspicious_108,Suspicious,Clepper Jensen,Knowles,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Clepper Jensen|Knowles,False,False
+Relationship_Suspicious_110,Suspicious,Miranda Jordan,V. Miesel Shipping,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Miranda Jordan|V. Miesel Shipping,False,False
+Relationship_Suspicious_112,Suspicious,V. Miesel Shipping,Oceanus City Council,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Oceanus City Council|V. Miesel Shipping,False,False
+Relationship_Suspicious_113,Suspicious,Rodriguez,Knowles,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Knowles|Rodriguez,False,False
+Relationship_Suspicious_123,Suspicious,Paackland Harbor,Remora,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Paackland Harbor|Remora,False,False
+Relationship_Suspicious_145,Suspicious,Sentinel,Mako,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Mako|Sentinel,False,False
+Relationship_Suspicious_209,Suspicious,Boss,Oceanus City Council,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Boss|Oceanus City Council,False,False
+Relationship_Suspicious_217,Suspicious,Sam,Oceanus City Council,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Oceanus City Council|Sam,False,False
+Relationship_Suspicious_219,Suspicious,The Lookout,Clepper Jensen,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Clepper Jensen|The Lookout,False,False
+Relationship_Suspicious_293,Suspicious,Sentinel,Neptune,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Neptune|Sentinel,False,False
+Relationship_Suspicious_294,Suspicious,Reef Guardian,Neptune,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Neptune|Reef Guardian,False,False
+Relationship_Suspicious_317,Suspicious,Liam Thorne,Oceanus City Council,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Liam Thorne|Oceanus City Council,False,False
+Relationship_Suspicious_341,Suspicious,Green Guardians,Neptune,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Green Guardians|Neptune,False,False
+Relationship_Suspicious_360,Suspicious,Elise,V. Miesel Shipping,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Elise|V. Miesel Shipping,False,False
+Relationship_Suspicious_368,Suspicious,Green Guardians,Oceanus City Council,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Green Guardians|Oceanus City Council,False,False
+Relationship_Suspicious_410,Suspicious,Sentinel,Oceanus City Council,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Oceanus City Council|Sentinel,False,False
+Relationship_Suspicious_426,Suspicious,Mrs. Money,The Intern,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Mrs. Money|The Intern,False,False
+Relationship_Suspicious_436,Suspicious,Liam Thorne,V. Miesel Shipping,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Liam Thorne|V. Miesel Shipping,False,False
+Relationship_Suspicious_457,Suspicious,EcoVigil,Liam Thorne,Entity,Entity,True,,,,,,,,,,,,,,,,,False,EcoVigil|Liam Thorne,False,False
+Relationship_Suspicious_470,Suspicious,Remora,Green Guardians,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Green Guardians|Remora,False,False
+Relationship_Suspicious_483,Suspicious,Miranda Jordan,Oceanus City Council,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Miranda Jordan|Oceanus City Council,False,False
+Relationship_Suspicious_485,Suspicious,Clepper Jensen,Miranda Jordan,Entity,Entity,False,,,,,,,,,,,,,,,,,False,Clepper Jensen|Miranda Jordan,False,False
+Relationship_Suspicious_577,Suspicious,Davis,Defender,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Davis|Defender,False,False
+Relationship_Suspicious_600,Suspicious,The Accountant,V. Miesel Shipping,Entity,Entity,True,,,,,,,,,,,,,,,,,False,The Accountant|V. Miesel Shipping,False,False
+Relationship_Unfriendly_130,Unfriendly,Northern Light,Green Guardians,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Green Guardians|Northern Light,False,False
+Relationship_Unfriendly_229,Unfriendly,Samantha Blake,Oceanus City Council,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Oceanus City Council|Samantha Blake,False,False
+Relationship_Unfriendly_312,Unfriendly,V. Miesel Shipping,Mako,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Mako|V. Miesel Shipping,False,False
+Relationship_Unfriendly_567,Unfriendly,Green Guardians,Oceanus City Council,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Green Guardians|Oceanus City Council,False,False
+Relationship_Unfriendly_625,Unfriendly,Oceanus City Council,Green Guardians,Entity,Entity,True,,,,,,,,,,,,,,,,,False,Green Guardians|Oceanus City Council,True,False

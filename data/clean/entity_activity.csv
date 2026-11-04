@@ -1,0 +1,73 @@
+name,id,sub_type,msg_sent,msg_received,relations,events,is_alias_like
+Sam,Sam,Person,1,10,5,1,False
+Kelly,Kelly,Person,2,1,2,0,False
+Nadia Conti,Nadia Conti,Person,10,14,9,2,False
+Elise,Elise,Person,5,6,5,0,False
+Liam Thorne,Liam Thorne,Person,11,14,11,5,False
+Samantha Blake,Samantha Blake,Person,9,7,6,0,False
+Davis,Davis,Person,13,25,17,4,False
+Rodriguez,Rodriguez,Person,1,15,12,2,False
+Sailor Shift,Sailor Shift,Person,0,0,1,0,False
+Clepper Jensen,Clepper Jensen,Person,20,18,8,0,False
+Miranda Jordan,Miranda Jordan,Person,18,20,9,3,False
+The Intern,The Intern,Person,23,18,8,5,True
+The Lookout,The Lookout,Person,33,8,4,8,True
+The Accountant,The Accountant,Person,4,2,5,0,True
+Mrs. Money,Mrs. Money,Person,23,23,12,2,True
+The Middleman,The Middleman,Person,9,10,5,1,True
+Boss,Boss,Person,9,17,14,1,True
+Small Fry,Small Fry,Person,7,0,9,2,True
+Glitters Team,Glitters Team,Organization,4,0,4,2,False
+Oceanus City Council,Oceanus City Council,Organization,33,43,37,11,False
+Green Guardians,Green Guardians,Organization,29,30,30,26,False
+V. Miesel Shipping,V. Miesel Shipping,Organization,12,18,30,4,False
+Sailor Shifts Team,Sailor Shifts Team,Organization,1,8,11,0,False
+Neptune,Neptune,Vessel,32,27,31,13,False
+Marlin,Marlin,Vessel,10,7,4,6,False
+Serenity,Serenity,Vessel,10,7,9,2,False
+Mako,Mako,Vessel,53,52,43,33,False
+Reef Guardian,Reef Guardian,Vessel,34,29,22,26,False
+Horizon,Horizon,Vessel,16,22,16,12,False
+Seawatch,Seawatch,Vessel,2,13,5,8,False
+EcoVigil,EcoVigil,Vessel,12,15,20,23,False
+Sentinel,Sentinel,Vessel,27,22,21,21,False
+Osprey,Osprey,Vessel,6,3,2,7,False
+Defender,Defender,Vessel,5,2,2,6,False
+Northern Light,Northern Light,Vessel,4,4,3,2,False
+Remora,Remora,Vessel,33,35,37,24,False
+Knowles,Knowles,Vessel,3,2,9,4,False
+Mariner's Dream,Mariner's Dream,Vessel,0,0,3,2,False
+Recreational Fishing Boats,Recreational Fishing Boats,Group,0,0,3,1,False
+City Officials,City Officials,Group,0,0,1,1,False
+Diving Tour Operators,Diving Tour Operators,Group,0,0,1,0,False
+Tourists,Tourists,Group,0,0,1,1,False
+Conservation Vessels,Conservation Vessels,Group,0,0,1,4,False
+Paackland Harbor,Paackland Harbor,Location,26,16,14,5,False
+Haacklee Harbor,Haacklee Harbor,Location,7,2,2,5,False
+Himark Harbor,Himark Harbor,Location,27,18,8,16,False
+Nemo Reef,Nemo Reef,Location,0,0,34,68,False
+Restricted areas,Restricted areas,Location,0,0,3,6,False
+Azure Cove,Azure Cove,Location,0,0,0,1,False
+Protected areas,Protected areas,Location,0,0,8,12,False
+Eastern reefs,Eastern reefs,Location,0,0,2,4,False
+Eastern Coastline,Eastern Coastline,Location,0,0,0,1,False
+Southern islands,Southern islands,Location,0,0,1,1,False
+Southern coastline,Southern coastline,Location,0,0,0,2,False
+Coral Point,Coral Point,Location,0,0,1,2,False
+Dolphin Bay,Dolphin Bay,Location,0,0,1,4,False
+E7,E7,Location,0,0,0,3,False
+Northern quadrant,Northern quadrant,Location,0,0,2,4,False
+Southern quadrant,Southern quadrant,Location,0,0,0,1,False
+Eastern quadrant,Eastern quadrant,Location,0,0,0,4,False
+Western quadrant,Western quadrant,Location,0,0,1,5,False
+Eastern Islands,Eastern Islands,Location,0,0,0,2,False
+Western Boundary,Western Boundary,Location,0,0,0,5,False
+Eastern Boundary,Eastern Boundary,Location,0,0,0,5,False
+Southern Boundary,Southern Boundary,Location,0,0,0,2,False
+Eastern Shoals,Eastern Shoals,Location,0,0,0,2,False
+Restricted Zone,Restricted Zone,Location,0,0,6,4,False
+Route C,Route C,Location,0,0,2,1,False
+South Dock,South Dock,Location,0,0,3,6,False
+Castaway Cove,Castaway Cove,Location,0,0,0,2,False
+Berth 14,Berth 14,Location,0,0,1,1,False
+Port Security,Port Security,Location,0,1,1,1,False
