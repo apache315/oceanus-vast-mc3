@@ -1,5 +1,5 @@
 % Project report for Visual Analytics (602AA) - VAST Challenge 2025, Mini-Challenge 3 (English version)
-% Build: tectonic report_en.tex (or pdfLaTeX). Figures are in ../docs/screenshots/ and ../docs/mockups/.
+% Build: tectonic report_en.tex (or pdfLaTeX). Figures are in ../docs/screenshots/.
 \documentclass[11pt,a4paper]{article}
 
 \usepackage[utf8]{inputenc}
@@ -11,7 +11,7 @@
 \usepackage{booktabs}
 \usepackage{tabularx}
 \usepackage{graphicx}
-\graphicspath{{../docs/screenshots/}{../docs/mockups/}{fig/}}
+\graphicspath{{../docs/screenshots/}}
 \usepackage{enumitem}
 \usepackage{caption}
 \usepackage{float}
@@ -70,8 +70,8 @@ actual evidence.
 
 All the charts are built with D3.js, including the original view required by the course (Section~\ref{sec:orig}).
 Pages and filters are handled with Vue.js and styling with Tailwind CSS; data preparation is done in Python (pandas and
-networkx). The repository contains the data preparation (\texttt{scripts/}), the application (\texttt{app/}) and the
-exploration notebook with the mockups (\texttt{analysis/}, \texttt{docs/}); start-up instructions are in
+networkx). The repository contains the data preparation (\texttt{scripts/}), the application (\texttt{app/}), the
+exploration notebook (\texttt{analysis/}) and the screenshots of the application (\texttt{docs/}); start-up instructions are in
 \texttt{README.md}. The
 challenge data are not included and must be downloaded from the VAST Challenge website. The interface is in
 Italian: in this report its titles and labels are quoted in English translation.
@@ -123,7 +123,8 @@ Some additional data were computed on top of the tables:
         what its members do: Nemo Reef
         Operation (15 actors, including Nadia Conti, Davis and the vessels Mako and Remora), Control and institutions
         (15 actors, including the Oceanus City Council, the harbours, the Green Guardians and the patrol vessels),
-        Aliases (the 8 pseudonyms) and Investigators (Clepper Jensen and Miranda Jordan).
+        Aliases (8 actors: six pseudonyms, such as Boss and The Middleman, plus Kelly and Sam, who
+        write almost only to them; the seventh pseudonym, Small Fry, ends up in the Operation) and Investigators (Clepper Jensen and Miranda Jordan).
   \item \textbf{Topics}: ten topics found with keywords, for example \emph{permits} (``permit'', ``authoriz'',
         ``clearance''), \emph{money / payments}, \emph{equipment / works} and \emph{secrecy}. A message can have more
         than one topic. The method is approximate, but the rules are easy to check and the messages found for each
@@ -296,7 +297,7 @@ day to organise activities that happen at dawn or in the evening. The day with m
 day of the closure of Nemo Reef. In the second week messages about \emph{closure of the area} (+55) and
 \emph{equipment / works} (+51) increase, while those about the \emph{Sailor Shift event} ($-28$) and \emph{Nemo Reef}
 ($-26$) decrease; the Nemo Reef Operation group sends 25 more messages, the other groups fewer. As for influence, for
-example, Remora is activated mostly by Mako (5 times) and in turn activates Rodriguez (9 times); Nadia Conti is
+example, Remora is activated mostly by Mako and Neptune (5 times each) and in turn activates Rodriguez (9 times); Nadia Conti is
 activated most often by Davis.
 
 \paragraph{Question 2.} There are four groups: the Nemo Reef Operation (Nadia Conti, Davis, Elise, the vessels Mako,
@@ -315,7 +316,7 @@ could be the same person, but this rests on a single message and remains an open
 hypothesis is that Nadia Conti is behind Boss, for the clues described in the use case: Boss stops writing on the day
 she starts, they have contacts in common (Liam Thorne and V.\ Miesel Shipping) and two pairs of messages attribute the
 same facts to both. It is not a proof, so in the application it remains a hypothesis that the analyst chooses to turn
-on. For The Intern, The Lookout, Mrs.\ Money and The Middleman the messages are spread over the whole period and there
+on. For The Intern, The Lookout, Mrs.\ Money, The Middleman and Small Fry the messages are spread over the whole period and there
 are not enough clues to link them to a person.
 
 \paragraph{Question 4.} According to the messages, Nadia Conti is involved in illegal activities. On 5 October she asks

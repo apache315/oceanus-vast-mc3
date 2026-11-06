@@ -1,5 +1,5 @@
 % Relazione del progetto di Visual Analytics (602AA) - VAST Challenge 2025, Mini-Challenge 3
-% Compilazione: tectonic relazione_it.tex (oppure pdfLaTeX). Le figure sono in ../docs/screenshots/ e ../docs/mockups/.
+% Compilazione: tectonic relazione_it.tex (oppure pdfLaTeX). Le figure sono in ../docs/screenshots/.
 \documentclass[11pt,a4paper]{article}
 
 \usepackage[utf8]{inputenc}
@@ -11,7 +11,7 @@
 \usepackage{booktabs}
 \usepackage{tabularx}
 \usepackage{graphicx}
-\graphicspath{{../docs/screenshots/}{../docs/mockups/}{fig/}}
+\graphicspath{{../docs/screenshots/}}
 \usepackage{enumitem}
 \usepackage{caption}
 \usepackage{float}
@@ -71,8 +71,8 @@ cui deriva, che per lui sono la vera prova.
 Tutti i grafici sono realizzati in D3.js, compresa la vista originale richiesta dal corso
 (sezione~\ref{sec:orig}). Le pagine e i filtri sono gestiti con Vue.js e lo stile con Tailwind CSS; la
 preparazione dei dati è fatta in Python (pandas e networkx). Il repository contiene la preparazione dei dati
-(\texttt{scripts/}), l'applicazione (\texttt{app/}) e il notebook di esplorazione con i mockup
-(\texttt{analysis/}, \texttt{docs/}); le istruzioni per avviare l'applicazione sono nel file
+(\texttt{scripts/}), l'applicazione (\texttt{app/}), il notebook di esplorazione
+(\texttt{analysis/}) e gli screenshot dell'applicazione (\texttt{docs/}); le istruzioni per avviare l'applicazione sono nel file
 \texttt{README.md}. I dati della challenge non sono inclusi e vanno scaricati dal sito della VAST Challenge.
 
 %---------------------------------------------------------------------
@@ -123,7 +123,8 @@ Sopra le tabelle sono stati calcolati alcuni dati aggiuntivi:
         conosciuto o di quello che fanno:
         Operazione Nemo Reef (15 attori, tra cui Nadia Conti, Davis e le barche Mako e Remora), Controllo e
         istituzioni (15 attori, tra cui l'Oceanus City Council, i porti, i Green Guardians e le barche di
-        sorveglianza), Alias (gli 8 pseudonimi) e Investigatori (Clepper Jensen e Miranda Jordan).
+        sorveglianza), Alias (8 attori: sei pseudonimi, come Boss e The Middleman, più Kelly e Sam, che scrivono
+        quasi solo a loro; il settimo pseudonimo, Small Fry, finisce nell'Operazione) e Investigatori (Clepper Jensen e Miranda Jordan).
   \item \textbf{Temi}: dieci temi individuati con parole chiave, per esempio \emph{permessi} (``permit'',
         ``authoriz'', ``clearance''), \emph{soldi / pagamenti}, \emph{attrezzature / lavori} e
         \emph{segretezza}. Un messaggio può avere più temi. È un metodo approssimativo, ma le regole sono
@@ -301,7 +302,7 @@ giorno per organizzare attività che avvengono all'alba o di sera. Il giorno con
 il giorno della chiusura di Nemo Reef. Nella seconda settimana aumentano i messaggi su \emph{chiusura dell'area}
 (+55) e \emph{attrezzature / lavori} (+51) e diminuiscono quelli sull'\emph{evento Sailor Shift} ($-28$) e su
 \emph{Nemo Reef} ($-26$); il gruppo Operazione Nemo Reef invia 25 messaggi in più, gli altri gruppi meno. Per
-l'influenza, per esempio, Remora viene attivata soprattutto da Mako (5 volte) e a sua volta attiva Rodriguez
+l'influenza, per esempio, Remora viene attivata soprattutto da Mako e da Neptune (5 volte ciascuno) e a sua volta attiva Rodriguez
 (9 volte); Nadia Conti viene attivata più spesso da Davis.
 
 \paragraph{Domanda 2.} I gruppi sono quattro: Operazione Nemo Reef (Nadia Conti, Davis, Elise, le barche Mako,
@@ -320,7 +321,7 @@ potrebbero essere la stessa persona, ma si basa su un solo messaggio e resta un'
 sostenuta è che dietro Boss ci sia Nadia Conti, per gli indizi descritti nel caso d'uso: Boss smette di scrivere il
 giorno in cui lei comincia, hanno contatti in comune (Liam Thorne e V.\ Miesel Shipping) e due coppie di messaggi
 attribuiscono gli stessi fatti a entrambi. Non è una prova, per cui nell'applicazione resta un'ipotesi che
-l'analista sceglie di attivare. Per The Intern, The Lookout, Mrs.\ Money e The Middleman i messaggi sono
+l'analista sceglie di attivare. Per The Intern, The Lookout, Mrs.\ Money, The Middleman e Small Fry i messaggi sono
 distribuiti su tutto il periodo e non ci sono indizi sufficienti per associarli a una persona.
 
 \paragraph{Domanda 4.} Secondo i messaggi Nadia Conti è coinvolta in attività illegali. Il 5 ottobre chiede ad
